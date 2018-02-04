@@ -1,5 +1,6 @@
 dependencies: \
   /Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/ios/myfirstappTests/myfirstappTests.m \
+  /Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/ios/Pods/Firebase/Core/Sources/module.modulemap \
   /Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
   /Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
   /Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \

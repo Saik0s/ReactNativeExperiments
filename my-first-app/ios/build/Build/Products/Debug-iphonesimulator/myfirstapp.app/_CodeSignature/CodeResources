@@ -8,6 +8,18 @@
 		<data>
 		pcZke1vnioooRXR3wi4J0Pytw8g=
 		</data>
+		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
+		<data>
+		Tcus2ztKrwBrb8aMCP2SQjEvBcU=
+		</data>
+		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
+		<data>
+		phYPnlTbR5U7Tduvo0k+Dh03+qs=
+		</data>
+		<key>Frameworks/GoogleToolboxForMac.framework/_CodeSignature/CodeResources</key>
+		<data>
+		odpq8Yr7UThepOXCDlXDVVq287s=
+		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
 		ooz0sIAaLKBGoFU5iKq8DR11NmY=
@@ -49,9 +61,21 @@
 		<data>
 		Etc/8BPenX54rv1uBx24u4bnqTg=
 		</data>
+		<key>Frameworks/nanopb.framework/Info.plist</key>
+		<data>
+		IXfT0quBAlNgG3A1D5pmWvqYomg=
+		</data>
+		<key>Frameworks/nanopb.framework/_CodeSignature/CodeResources</key>
+		<data>
+		y+9C0bV6EmkSl7D91m5VaTvFQ8s=
+		</data>
+		<key>Frameworks/nanopb.framework/nanopb</key>
+		<data>
+		qEch7JAzzJzEJhtJei8r4izpq5k=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		rp3qbt4eWNuSHidS2zNkQaOjLYg=
+		E/CeshhHTzXJp6i16hbJxqh3BwA=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -89,6 +113,39 @@
 			<key>hash2</key>
 			<data>
 			jrTTSYYYwyaV7HbqFpO+ttJ6Mfr1IOlvltMOEq9NGpM=
+			</data>
+		</dict>
+		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Tcus2ztKrwBrb8aMCP2SQjEvBcU=
+			</data>
+			<key>hash2</key>
+			<data>
+			OOQaeENfDaalxkuVDWUeV78QG+XzcVN/fhkqQHwYtwc=
+			</data>
+		</dict>
+		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			phYPnlTbR5U7Tduvo0k+Dh03+qs=
+			</data>
+			<key>hash2</key>
+			<data>
+			YZrEhUFTPPQOqDinNdsmurgzAF5GpclWGoUiEjaCV/M=
+			</data>
+		</dict>
+		<key>Frameworks/GoogleToolboxForMac.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			odpq8Yr7UThepOXCDlXDVVq287s=
+			</data>
+			<key>hash2</key>
+			<data>
+			tdeUAp7RxP10MvnCWq2uWJUNmA89kiAeubeQonhPbzA=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -190,6 +247,39 @@
 			<key>hash2</key>
 			<data>
 			Jh5i9giCFfo5GhN25CjMKdDJ6Kdlz/p4L95RITR+WeA=
+			</data>
+		</dict>
+		<key>Frameworks/nanopb.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IXfT0quBAlNgG3A1D5pmWvqYomg=
+			</data>
+			<key>hash2</key>
+			<data>
+			n+rxHJwuXx7/XL6QWI3bynTOpab8LNOQg9bhUFObPUA=
+			</data>
+		</dict>
+		<key>Frameworks/nanopb.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y+9C0bV6EmkSl7D91m5VaTvFQ8s=
+			</data>
+			<key>hash2</key>
+			<data>
+			5nFfZf6PG4nrlnuACa24exAkqD7PFAfCCdZxAfa2VG8=
+			</data>
+		</dict>
+		<key>Frameworks/nanopb.framework/nanopb</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qEch7JAzzJzEJhtJei8r4izpq5k=
+			</data>
+			<key>hash2</key>
+			<data>
+			z6cFiIJdWqe2LQzsisSuAF7Rx+FeqOb2zelTnGyPf24=
 			</data>
 		</dict>
 		<key>PlugIns/myfirstappTests.xctest.dSYM/Contents/Info.plist</key>
