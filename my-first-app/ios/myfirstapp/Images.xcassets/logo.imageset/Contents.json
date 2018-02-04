@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
+      "filename" : "ipad-83.5x83.5-2x.png",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "logo.png",
       "scale" : "2x"
     },
     {
