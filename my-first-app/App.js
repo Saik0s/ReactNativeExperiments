@@ -1,6 +1,7 @@
 import React, {
   Component
 } from 'react';
+//import firebase from 'react-native-firebase';
 import {
   Text,
   View,
@@ -15,6 +16,8 @@ import {
   FormInput,
   FormValidationMessage
 } from 'react-native-elements'
+
+//console.log(firebase.database().app.name);
 
 export default class App extends React.Component {
     state = {

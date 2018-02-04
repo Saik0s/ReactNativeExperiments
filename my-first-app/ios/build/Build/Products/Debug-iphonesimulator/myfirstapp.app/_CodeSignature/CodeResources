@@ -4,13 +4,37 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets.car</key>
+		<data>
+		dR0LbBFjlFM8Ht/Ls1WqyPAUUB0=
+		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		pcZke1vnioooRXR3wi4J0Pytw8g=
+		EzHey6bup6w4bvE7SqQ8JLFsFkQ=
+		</data>
+		<key>Entypo.ttf</key>
+		<data>
+		R4cKZ91Qhxdl95nKqX2ochnuR8U=
+		</data>
+		<key>EvilIcons.ttf</key>
+		<data>
+		QZrcvnS7qREj2zspB3XjYvIS8+U=
+		</data>
+		<key>Feather.ttf</key>
+		<data>
+		AiHzjp4t0CEzVCcxbr7QXuznQyM=
+		</data>
+		<key>FontAwesome.ttf</key>
+		<data>
+		E7HqtlqYPHpzvHmXxHnWaUP3xss=
+		</data>
+		<key>Foundation.ttf</key>
+		<data>
+		SyvObHkkk6SlcWtv7C2+/olJLD8=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
 		<data>
-		Tcus2ztKrwBrb8aMCP2SQjEvBcU=
+		9QnUh2O40bVuEgDUrrSb2BnF52c=
 		</data>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
 		<data>
@@ -71,11 +95,27 @@
 		</data>
 		<key>Frameworks/nanopb.framework/nanopb</key>
 		<data>
-		qEch7JAzzJzEJhtJei8r4izpq5k=
+		ZcC+ELLj49t22s8t6thfdjFX39Q=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		E/CeshhHTzXJp6i16hbJxqh3BwA=
+		g/a6MEPe/X8L0ekVb+DToRGax5c=
+		</data>
+		<key>Ionicons.ttf</key>
+		<data>
+		D3lWcE/mG0nEHqGiIFEkD3AKK0Q=
+		</data>
+		<key>MaterialCommunityIcons.ttf</key>
+		<data>
+		qsYaaEAlreJgw0cwmpP4T0ugnSE=
+		</data>
+		<key>MaterialIcons.ttf</key>
+		<data>
+		/AXeMSNOAJD33cKM4bI69AJssdo=
+		</data>
+		<key>Octicons.ttf</key>
+		<data>
+		43wPh5FmspBv+00q8kJl9AIbRBc=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -87,43 +127,117 @@
 		</data>
 		<key>PlugIns/myfirstappTests.xctest.dSYM/Contents/Resources/DWARF/myfirstappTests</key>
 		<data>
-		nco/Fdal1ZzxXwB2HMDSARahCGE=
+		ROz+ZZwNOsoHpiACDKOqPz5RB3E=
 		</data>
 		<key>PlugIns/myfirstappTests.xctest/Info.plist</key>
 		<data>
-		EqHLaZFIc5KVaaP9of+ml9b5iGQ=
+		0cjVw4Vb0PGOtch0mB/sOb6dIo0=
 		</data>
 		<key>PlugIns/myfirstappTests.xctest/_CodeSignature/CodeResources</key>
 		<data>
-		Cv0xXct/VYnnByJf9APqGRWdJdQ=
+		PtH02B3Hzxi6ScYLe8CbqH/v7oo=
 		</data>
 		<key>PlugIns/myfirstappTests.xctest/myfirstappTests</key>
 		<data>
-		I8ET/CQkODVU42W/8Vc6yrEAl/s=
+		FgoEHakuo52IZwwWxcyNXFKqVKI=
+		</data>
+		<key>SimpleLineIcons.ttf</key>
+		<data>
+		n/uBpaEREuKS8swyPphIa61ZdZk=
+		</data>
+		<key>Zocial.ttf</key>
+		<data>
+		C9pZx7zT05J94EfgkYdaRCi/0as=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dR0LbBFjlFM8Ht/Ls1WqyPAUUB0=
+			</data>
+			<key>hash2</key>
+			<data>
+			+02Qtt0XmcOKkj9thTT8Wia8cqneNemQRvNfeLepV4E=
+			</data>
+		</dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pcZke1vnioooRXR3wi4J0Pytw8g=
+			EzHey6bup6w4bvE7SqQ8JLFsFkQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			jrTTSYYYwyaV7HbqFpO+ttJ6Mfr1IOlvltMOEq9NGpM=
+			RFVXpsgx56tNEaZG7FytrSlAuD4BRY2ykPr2fDCXf8E=
+			</data>
+		</dict>
+		<key>Entypo.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R4cKZ91Qhxdl95nKqX2ochnuR8U=
+			</data>
+			<key>hash2</key>
+			<data>
+			3QhJoVkfiNp5N7I/kiQYpc7FTgdeCePMyo/rYgFvqoI=
+			</data>
+		</dict>
+		<key>EvilIcons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QZrcvnS7qREj2zspB3XjYvIS8+U=
+			</data>
+			<key>hash2</key>
+			<data>
+			J9GohnZmGjoiaVdpUtb3ANoFZEvAMFUR3iO3D3HKVDY=
+			</data>
+		</dict>
+		<key>Feather.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AiHzjp4t0CEzVCcxbr7QXuznQyM=
+			</data>
+			<key>hash2</key>
+			<data>
+			sse5lKY8HPl6gBWzGq4njD9mmOqvSOduEWdc+dNdrHY=
+			</data>
+		</dict>
+		<key>FontAwesome.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			E7HqtlqYPHpzvHmXxHnWaUP3xss=
+			</data>
+			<key>hash2</key>
+			<data>
+			qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=
+			</data>
+		</dict>
+		<key>Foundation.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SyvObHkkk6SlcWtv7C2+/olJLD8=
+			</data>
+			<key>hash2</key>
+			<data>
+			fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal+JM+Y=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/GoogleToolboxForMac</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Tcus2ztKrwBrb8aMCP2SQjEvBcU=
+			9QnUh2O40bVuEgDUrrSb2BnF52c=
 			</data>
 			<key>hash2</key>
 			<data>
-			OOQaeENfDaalxkuVDWUeV78QG+XzcVN/fhkqQHwYtwc=
+			y6MYHhUg4y3Ob+pn6O4DDq9grTzCkZ9vdQsReXzUDio=
 			</data>
 		</dict>
 		<key>Frameworks/GoogleToolboxForMac.framework/Info.plist</key>
@@ -275,11 +389,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qEch7JAzzJzEJhtJei8r4izpq5k=
+			ZcC+ELLj49t22s8t6thfdjFX39Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			z6cFiIJdWqe2LQzsisSuAF7Rx+FeqOb2zelTnGyPf24=
+			lApquPP2lk0+3mYiPtoG5oE64f3tfd4NJ0BcFBlX5YA=
+			</data>
+		</dict>
+		<key>Ionicons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D3lWcE/mG0nEHqGiIFEkD3AKK0Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			u0dnmwuuuEgbf1HGitM65aUmc2y1CxcXzGD/a2X5CKM=
+			</data>
+		</dict>
+		<key>MaterialCommunityIcons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qsYaaEAlreJgw0cwmpP4T0ugnSE=
+			</data>
+			<key>hash2</key>
+			<data>
+			q9ds9276vErG0wDQjAHtvPQadpxhrJDfPQ8UGJDid2g=
+			</data>
+		</dict>
+		<key>MaterialIcons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/AXeMSNOAJD33cKM4bI69AJssdo=
+			</data>
+			<key>hash2</key>
+			<data>
+			t/Sjq1YgSPKN0fppFgG8QzY6YdD4dtFtgxbFLk8y1pY=
+			</data>
+		</dict>
+		<key>Octicons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			43wPh5FmspBv+00q8kJl9AIbRBc=
+			</data>
+			<key>hash2</key>
+			<data>
+			IDC914RgQrcm7e1pDO4UjqugvZKBAae3xLoaLztAPMg=
 			</data>
 		</dict>
 		<key>PlugIns/myfirstappTests.xctest.dSYM/Contents/Info.plist</key>
@@ -297,44 +455,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nco/Fdal1ZzxXwB2HMDSARahCGE=
+			ROz+ZZwNOsoHpiACDKOqPz5RB3E=
 			</data>
 			<key>hash2</key>
 			<data>
-			FVZPrgPBVqNa/LZoOmWltySgurBkDewNwKujwO+/x7Q=
+			cQS5RjtKKAEuWnP32i/KvgIBBXAXb/da+jD8qDNqdAQ=
 			</data>
 		</dict>
 		<key>PlugIns/myfirstappTests.xctest/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EqHLaZFIc5KVaaP9of+ml9b5iGQ=
+			0cjVw4Vb0PGOtch0mB/sOb6dIo0=
 			</data>
 			<key>hash2</key>
 			<data>
-			7M1Bb6Xx33mGVV93wEkTd1uIOtk+Kkx6A+Ie1sLNOXM=
+			mYIJaBNF80fnm/1usg0bCJ0mgznJUy/rmGksa2ufEK4=
 			</data>
 		</dict>
 		<key>PlugIns/myfirstappTests.xctest/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Cv0xXct/VYnnByJf9APqGRWdJdQ=
+			PtH02B3Hzxi6ScYLe8CbqH/v7oo=
 			</data>
 			<key>hash2</key>
 			<data>
-			RmomceFXXDNhBBA1DPlZqYxAbhivEzHA2nTjaYko+sk=
+			6FpboYir90xgeYZi53iwxpapod8bc1zf56Johj+y6t0=
 			</data>
 		</dict>
 		<key>PlugIns/myfirstappTests.xctest/myfirstappTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I8ET/CQkODVU42W/8Vc6yrEAl/s=
+			FgoEHakuo52IZwwWxcyNXFKqVKI=
 			</data>
 			<key>hash2</key>
 			<data>
-			0S+T18Vdcse1iuPX/RITQnuDSQC46yBogq7543zt600=
+			kabgGOnNK2yMnRnFDobkpNP6ARZkJVFsfWotd5jhuns=
+			</data>
+		</dict>
+		<key>SimpleLineIcons.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n/uBpaEREuKS8swyPphIa61ZdZk=
+			</data>
+			<key>hash2</key>
+			<data>
+			P1Ad2wXHCCm7tRz+nKn/9X854GBFfCV7PM8l33Z/CHA=
+			</data>
+		</dict>
+		<key>Zocial.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			C9pZx7zT05J94EfgkYdaRCi/0as=
+			</data>
+			<key>hash2</key>
+			<data>
+			17EKHr4YMOWi8I9JA7moDiwZEsDdL3O5P88r+DIhZgI=
 			</data>
 		</dict>
 	</dict>
