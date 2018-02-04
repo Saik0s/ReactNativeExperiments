@@ -1,4 +1,0 @@
-#Thu Feb 01 18:08:45 EET 2018
-base.0=/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/transforms/dexMerger/debug/8
-path.0=classes.dex
-renamed.0=classes.dex
