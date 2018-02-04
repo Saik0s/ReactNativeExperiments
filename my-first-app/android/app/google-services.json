@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "951189171271",
+    "firebase_url": "https://lifeacademy-d845d.firebaseio.com",
+    "project_id": "lifeacademy-d845d",
+    "storage_bucket": "lifeacademy-d845d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951189171271:android:dc2e1273648a3eeb",
+        "android_client_info": {
+          "package_name": "com.igortarasenko.lifeacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951189171271-mqf7fotjuiuu1n6def8d45gn7hh3o6ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7VACCi6kZ17W1AR3fie2DRwh4M_tW3Pk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
