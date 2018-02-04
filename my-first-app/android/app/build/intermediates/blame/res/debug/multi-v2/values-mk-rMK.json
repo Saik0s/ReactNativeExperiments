@@ -4,7 +4,7 @@
             "outputFile": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/values-mk-rMK/values-mk-rMK.xml",
             "map": [
                 {
-                    "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/values-mk-rMK/values-mk-rMK.xml",
+                    "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/values-mk-rMK/values-mk-rMK.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -26,7 +26,7 @@
             "outputFile": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml",
             "map": [
                 {
-                    "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/values-mk-rMK/values-mk-rMK.xml",
+                    "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/values-mk-rMK/values-mk-rMK.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

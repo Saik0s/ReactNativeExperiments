@@ -1,4 +1,4 @@
-package com.myfirstapp;
+package com.igortarasenko.lifeacademy;
 
 import android.app.Application;
 

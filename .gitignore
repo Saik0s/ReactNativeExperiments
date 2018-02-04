@@ -1,1 +1,4 @@
 .history
+my-first-app/node_modules
+my-first-app/ios/build
+my-first-app/android/app/build

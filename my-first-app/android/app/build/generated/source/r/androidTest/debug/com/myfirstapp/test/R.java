@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.myfirstapp.test;
+package com.igortarasenko.lifeacademy.test;
 
 public final class R {
   public static final class anim {
@@ -2515,33 +2515,33 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.myfirstapp.test:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.myfirstapp.test:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.myfirstapp.test:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.myfirstapp.test:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.myfirstapp.test:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.myfirstapp.test:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.myfirstapp.test:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.myfirstapp.test:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.myfirstapp.test:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.myfirstapp.test:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.myfirstapp.test:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.myfirstapp.test:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.myfirstapp.test:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.myfirstapp.test:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.myfirstapp.test:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.myfirstapp.test:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.myfirstapp.test:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.myfirstapp.test:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.myfirstapp.test:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.myfirstapp.test:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.myfirstapp.test:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.myfirstapp.test:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.myfirstapp.test:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.myfirstapp.test:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.myfirstapp.test:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.myfirstapp.test:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.myfirstapp.test:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.igortarasenko.lifeacademy.test:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.igortarasenko.lifeacademy.test:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.igortarasenko.lifeacademy.test:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.igortarasenko.lifeacademy.test:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.igortarasenko.lifeacademy.test:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.igortarasenko.lifeacademy.test:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.igortarasenko.lifeacademy.test:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.igortarasenko.lifeacademy.test:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.igortarasenko.lifeacademy.test:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.igortarasenko.lifeacademy.test:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.igortarasenko.lifeacademy.test:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.igortarasenko.lifeacademy.test:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.igortarasenko.lifeacademy.test:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.igortarasenko.lifeacademy.test:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.igortarasenko.lifeacademy.test:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.igortarasenko.lifeacademy.test:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.igortarasenko.lifeacademy.test:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.igortarasenko.lifeacademy.test:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.igortarasenko.lifeacademy.test:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.igortarasenko.lifeacademy.test:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.igortarasenko.lifeacademy.test:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.igortarasenko.lifeacademy.test:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.igortarasenko.lifeacademy.test:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.igortarasenko.lifeacademy.test:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.igortarasenko.lifeacademy.test:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.igortarasenko.lifeacademy.test:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.igortarasenko.lifeacademy.test:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -2572,12 +2572,12 @@ public final class R {
      * @see #ActionBar_titleTextStyle
      */
     public static final int[] ActionBar={
-        0x7f02002c, 0x7f02002e, 0x7f02002f, 0x7f02004e, 
-        0x7f02004f, 0x7f020050, 0x7f020051, 0x7f020053, 
-        0x7f020057, 0x7f020058, 0x7f020063, 0x7f02006a, 
-        0x7f02006b, 0x7f02006c, 0x7f02006d, 0x7f02006e, 
-        0x7f020070, 0x7f020073, 0x7f02007f, 0x7f020086, 
-        0x7f020091, 0x7f020098, 0x7f020099, 0x7f0200b9, 
+        0x7f02002c, 0x7f02002e, 0x7f02002f, 0x7f02004e,
+        0x7f02004f, 0x7f020050, 0x7f020051, 0x7f020053,
+        0x7f020057, 0x7f020058, 0x7f020063, 0x7f02006a,
+        0x7f02006b, 0x7f02006c, 0x7f02006d, 0x7f02006e,
+        0x7f020070, 0x7f020073, 0x7f02007f, 0x7f020086,
+        0x7f020091, 0x7f020098, 0x7f020099, 0x7f0200b9,
         0x7f0200bc, 0x7f0200ce, 0x7f0200d6
       };
     /**
@@ -2624,7 +2624,7 @@ public final class R {
      */
     public static final int ActionBarLayout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2632,11 +2632,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:background
+     * @attr name com.igortarasenko.lifeacademy.test:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2647,11 +2647,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:backgroundSplit
+     * @attr name com.igortarasenko.lifeacademy.test:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2662,11 +2662,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:backgroundStacked
+     * @attr name com.igortarasenko.lifeacademy.test:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2675,11 +2675,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:contentInsetEnd
+     * @attr name com.igortarasenko.lifeacademy.test:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2688,11 +2688,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:contentInsetLeft
+     * @attr name com.igortarasenko.lifeacademy.test:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=4;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2701,11 +2701,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:contentInsetRight
+     * @attr name com.igortarasenko.lifeacademy.test:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=5;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2714,11 +2714,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:contentInsetStart
+     * @attr name com.igortarasenko.lifeacademy.test:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=6;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2726,11 +2726,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:customNavigationLayout
+     * @attr name com.igortarasenko.lifeacademy.test:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=7;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -2748,11 +2748,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.myfirstapp.test:displayOptions
+     * @attr name com.igortarasenko.lifeacademy.test:displayOptions
      */
     public static final int ActionBar_displayOptions=8;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2760,11 +2760,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:divider
+     * @attr name com.igortarasenko.lifeacademy.test:divider
      */
     public static final int ActionBar_divider=9;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2773,11 +2773,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:elevation
+     * @attr name com.igortarasenko.lifeacademy.test:elevation
      */
     public static final int ActionBar_elevation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2786,21 +2786,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:height
+     * @attr name com.igortarasenko.lifeacademy.test:height
      */
     public static final int ActionBar_height=11;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:hideOnContentScroll
+     * @attr name com.igortarasenko.lifeacademy.test:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=12;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2808,11 +2808,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:homeAsUpIndicator
+     * @attr name com.igortarasenko.lifeacademy.test:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=13;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2820,11 +2820,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:homeLayout
+     * @attr name com.igortarasenko.lifeacademy.test:homeLayout
      */
     public static final int ActionBar_homeLayout=14;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2832,11 +2832,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:icon
+     * @attr name com.igortarasenko.lifeacademy.test:icon
      */
     public static final int ActionBar_icon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2844,11 +2844,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:indeterminateProgressStyle
+     * @attr name com.igortarasenko.lifeacademy.test:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=16;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2857,11 +2857,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:itemPadding
+     * @attr name com.igortarasenko.lifeacademy.test:itemPadding
      */
     public static final int ActionBar_itemPadding=17;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2869,11 +2869,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:logo
+     * @attr name com.igortarasenko.lifeacademy.test:logo
      */
     public static final int ActionBar_logo=18;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -2887,11 +2887,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.myfirstapp.test:navigationMode
+     * @attr name com.igortarasenko.lifeacademy.test:navigationMode
      */
     public static final int ActionBar_navigationMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2899,11 +2899,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:popupTheme
+     * @attr name com.igortarasenko.lifeacademy.test:popupTheme
      */
     public static final int ActionBar_popupTheme=20;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2912,11 +2912,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:progressBarPadding
+     * @attr name com.igortarasenko.lifeacademy.test:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=21;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2924,21 +2924,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:progressBarStyle
+     * @attr name com.igortarasenko.lifeacademy.test:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=22;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.myfirstapp.test:subtitle
+     * @attr name com.igortarasenko.lifeacademy.test:subtitle
      */
     public static final int ActionBar_subtitle=23;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2946,21 +2946,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:subtitleTextStyle
+     * @attr name com.igortarasenko.lifeacademy.test:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.myfirstapp.test:title
+     * @attr name com.igortarasenko.lifeacademy.test:title
      */
     public static final int ActionBar_title=25;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2968,7 +2968,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:titleTextStyle
+     * @attr name com.igortarasenko.lifeacademy.test:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=26;
     /**
@@ -3007,12 +3007,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.myfirstapp.test:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.myfirstapp.test:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.myfirstapp.test:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.myfirstapp.test:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.myfirstapp.test:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.myfirstapp.test:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.igortarasenko.lifeacademy.test:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.igortarasenko.lifeacademy.test:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.igortarasenko.lifeacademy.test:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.igortarasenko.lifeacademy.test:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.igortarasenko.lifeacademy.test:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.igortarasenko.lifeacademy.test:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -3022,11 +3022,11 @@ public final class R {
      * @see #ActionMode_titleTextStyle
      */
     public static final int[] ActionMode={
-        0x7f02002c, 0x7f02002e, 0x7f020041, 0x7f02006a, 
+        0x7f02002c, 0x7f02002e, 0x7f020041, 0x7f02006a,
         0x7f0200bc, 0x7f0200d6
       };
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3034,11 +3034,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:background
+     * @attr name com.igortarasenko.lifeacademy.test:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3049,11 +3049,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:backgroundSplit
+     * @attr name com.igortarasenko.lifeacademy.test:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3061,11 +3061,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:closeItemLayout
+     * @attr name com.igortarasenko.lifeacademy.test:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3074,11 +3074,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:height
+     * @attr name com.igortarasenko.lifeacademy.test:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3086,11 +3086,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:subtitleTextStyle
+     * @attr name com.igortarasenko.lifeacademy.test:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3098,7 +3098,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:titleTextStyle
+     * @attr name com.igortarasenko.lifeacademy.test:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -3108,8 +3108,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.myfirstapp.test:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.myfirstapp.test:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.igortarasenko.lifeacademy.test:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.igortarasenko.lifeacademy.test:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -3118,7 +3118,7 @@ public final class R {
         0x7f020064, 0x7f020071
       };
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3126,17 +3126,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:expandActivityOverflowButtonDrawable
+     * @attr name com.igortarasenko.lifeacademy.test:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.myfirstapp.test:initialActivityCount
+     * @attr name com.igortarasenko.lifeacademy.test:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -3147,11 +3147,11 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.myfirstapp.test:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.myfirstapp.test:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.myfirstapp.test:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.myfirstapp.test:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.myfirstapp.test:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.igortarasenko.lifeacademy.test:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.igortarasenko.lifeacademy.test:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.igortarasenko.lifeacademy.test:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.igortarasenko.lifeacademy.test:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.igortarasenko.lifeacademy.test:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonPanelSideLayout
@@ -3161,7 +3161,7 @@ public final class R {
      * @see #AlertDialog_singleChoiceItemLayout
      */
     public static final int[] AlertDialog={
-        0x010100f2, 0x7f020039, 0x7f020077, 0x7f020078, 
+        0x010100f2, 0x7f020039, 0x7f020077, 0x7f020078,
         0x7f020083, 0x7f0200b2
       };
     /**
@@ -3177,7 +3177,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3185,11 +3185,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:buttonPanelSideLayout
+     * @attr name com.igortarasenko.lifeacademy.test:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=1;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3197,11 +3197,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:listItemLayout
+     * @attr name com.igortarasenko.lifeacademy.test:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3209,11 +3209,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:listLayout
+     * @attr name com.igortarasenko.lifeacademy.test:listLayout
      */
     public static final int AlertDialog_listLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3221,11 +3221,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:multiChoiceItemLayout
+     * @attr name com.igortarasenko.lifeacademy.test:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3233,7 +3233,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:singleChoiceItemLayout
+     * @attr name com.igortarasenko.lifeacademy.test:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=5;
     /**
@@ -3244,7 +3244,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.myfirstapp.test:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.igortarasenko.lifeacademy.test:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_textAllCaps
@@ -3265,7 +3265,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3275,7 +3275,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:textAllCaps
+     * @attr name com.igortarasenko.lifeacademy.test:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=1;
     /**
@@ -3286,8 +3286,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.myfirstapp.test:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.myfirstapp.test:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.igortarasenko.lifeacademy.test:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.igortarasenko.lifeacademy.test:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -3309,18 +3309,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:buttonTint
+     * @attr name com.igortarasenko.lifeacademy.test:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3336,7 +3336,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.myfirstapp.test:buttonTintMode
+     * @attr name com.igortarasenko.lifeacademy.test:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -3346,14 +3346,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.myfirstapp.test:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.myfirstapp.test:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.myfirstapp.test:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.myfirstapp.test:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.myfirstapp.test:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.myfirstapp.test:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.myfirstapp.test:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.myfirstapp.test:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.igortarasenko.lifeacademy.test:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.igortarasenko.lifeacademy.test:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.igortarasenko.lifeacademy.test:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.igortarasenko.lifeacademy.test:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.igortarasenko.lifeacademy.test:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.igortarasenko.lifeacademy.test:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.igortarasenko.lifeacademy.test:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.igortarasenko.lifeacademy.test:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -3365,11 +3365,11 @@ public final class R {
      * @see #DrawerArrowToggle_thickness
      */
     public static final int[] DrawerArrowToggle={
-        0x7f020029, 0x7f02002a, 0x7f020032, 0x7f020044, 
+        0x7f020029, 0x7f02002a, 0x7f020032, 0x7f020044,
         0x7f02005c, 0x7f020068, 0x7f0200b3, 0x7f0200cc
       };
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3378,11 +3378,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:arrowHeadLength
+     * @attr name com.igortarasenko.lifeacademy.test:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3391,11 +3391,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:arrowShaftLength
+     * @attr name com.igortarasenko.lifeacademy.test:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3404,22 +3404,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:barLength
+     * @attr name com.igortarasenko.lifeacademy.test:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:color
+     * @attr name com.igortarasenko.lifeacademy.test:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3428,11 +3428,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:drawableSize
+     * @attr name com.igortarasenko.lifeacademy.test:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3441,21 +3441,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:gapBetweenBars
+     * @attr name com.igortarasenko.lifeacademy.test:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:spinBars
+     * @attr name com.igortarasenko.lifeacademy.test:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3464,7 +3464,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:thickness
+     * @attr name com.igortarasenko.lifeacademy.test:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -3474,31 +3474,31 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.myfirstapp.test:actualImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.myfirstapp.test:backgroundImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.myfirstapp.test:fadeDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.myfirstapp.test:failureImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.myfirstapp.test:failureImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.myfirstapp.test:overlayImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.myfirstapp.test:placeholderImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.myfirstapp.test:placeholderImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.myfirstapp.test:pressedStateOverlayImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.myfirstapp.test:progressBarAutoRotateInterval}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.myfirstapp.test:progressBarImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.myfirstapp.test:progressBarImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.myfirstapp.test:retryImage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.myfirstapp.test:retryImageScaleType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.myfirstapp.test:roundAsCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.myfirstapp.test:roundBottomLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.myfirstapp.test:roundBottomRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.myfirstapp.test:roundTopLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.myfirstapp.test:roundTopRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.myfirstapp.test:roundWithOverlayColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.myfirstapp.test:roundedCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.myfirstapp.test:roundingBorderColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.myfirstapp.test:roundingBorderPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.myfirstapp.test:roundingBorderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.myfirstapp.test:viewAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.igortarasenko.lifeacademy.test:actualImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.igortarasenko.lifeacademy.test:backgroundImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.igortarasenko.lifeacademy.test:fadeDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.igortarasenko.lifeacademy.test:failureImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.igortarasenko.lifeacademy.test:failureImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.igortarasenko.lifeacademy.test:overlayImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.igortarasenko.lifeacademy.test:placeholderImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.igortarasenko.lifeacademy.test:placeholderImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.igortarasenko.lifeacademy.test:pressedStateOverlayImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.igortarasenko.lifeacademy.test:progressBarAutoRotateInterval}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.igortarasenko.lifeacademy.test:progressBarImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.igortarasenko.lifeacademy.test:progressBarImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.igortarasenko.lifeacademy.test:retryImage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.igortarasenko.lifeacademy.test:retryImageScaleType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.igortarasenko.lifeacademy.test:roundAsCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.igortarasenko.lifeacademy.test:roundBottomLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.igortarasenko.lifeacademy.test:roundBottomRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.igortarasenko.lifeacademy.test:roundTopLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.igortarasenko.lifeacademy.test:roundTopRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.igortarasenko.lifeacademy.test:roundWithOverlayColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.igortarasenko.lifeacademy.test:roundedCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.igortarasenko.lifeacademy.test:roundingBorderColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.igortarasenko.lifeacademy.test:roundingBorderPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.igortarasenko.lifeacademy.test:roundingBorderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.igortarasenko.lifeacademy.test:viewAspectRatio}</code></td><td></td></tr>
      * </table>
      * @see #GenericDraweeHierarchy_actualImageScaleType
      * @see #GenericDraweeHierarchy_backgroundImage
@@ -3527,16 +3527,16 @@ public final class R {
      * @see #GenericDraweeHierarchy_viewAspectRatio
      */
     public static final int[] GenericDraweeHierarchy={
-        0x7f020023, 0x7f02002d, 0x7f020065, 0x7f020066, 
-        0x7f020067, 0x7f020088, 0x7f02008e, 0x7f02008f, 
-        0x7f020094, 0x7f020095, 0x7f020096, 0x7f020097, 
-        0x7f02009e, 0x7f02009f, 0x7f0200a0, 0x7f0200a1, 
-        0x7f0200a2, 0x7f0200a3, 0x7f0200a4, 0x7f0200a5, 
-        0x7f0200a6, 0x7f0200a7, 0x7f0200a8, 0x7f0200a9, 
+        0x7f020023, 0x7f02002d, 0x7f020065, 0x7f020066,
+        0x7f020067, 0x7f020088, 0x7f02008e, 0x7f02008f,
+        0x7f020094, 0x7f020095, 0x7f020096, 0x7f020097,
+        0x7f02009e, 0x7f02009f, 0x7f0200a0, 0x7f0200a1,
+        0x7f0200a2, 0x7f0200a3, 0x7f0200a4, 0x7f0200a5,
+        0x7f0200a6, 0x7f0200a7, 0x7f0200a8, 0x7f0200a9,
         0x7f0200da
       };
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actualImageScaleType}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actualImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3556,11 +3556,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.myfirstapp.test:actualImageScaleType
+     * @attr name com.igortarasenko.lifeacademy.test:actualImageScaleType
      */
     public static final int GenericDraweeHierarchy_actualImageScaleType=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#backgroundImage}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#backgroundImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3568,20 +3568,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:backgroundImage
+     * @attr name com.igortarasenko.lifeacademy.test:backgroundImage
      */
     public static final int GenericDraweeHierarchy_backgroundImage=1;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#fadeDuration}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#fadeDuration}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.myfirstapp.test:fadeDuration
+     * @attr name com.igortarasenko.lifeacademy.test:fadeDuration
      */
     public static final int GenericDraweeHierarchy_fadeDuration=2;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#failureImage}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#failureImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3589,11 +3589,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:failureImage
+     * @attr name com.igortarasenko.lifeacademy.test:failureImage
      */
     public static final int GenericDraweeHierarchy_failureImage=3;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#failureImageScaleType}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#failureImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3613,11 +3613,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.myfirstapp.test:failureImageScaleType
+     * @attr name com.igortarasenko.lifeacademy.test:failureImageScaleType
      */
     public static final int GenericDraweeHierarchy_failureImageScaleType=4;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#overlayImage}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#overlayImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3625,11 +3625,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:overlayImage
+     * @attr name com.igortarasenko.lifeacademy.test:overlayImage
      */
     public static final int GenericDraweeHierarchy_overlayImage=5;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#placeholderImage}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#placeholderImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3637,11 +3637,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:placeholderImage
+     * @attr name com.igortarasenko.lifeacademy.test:placeholderImage
      */
     public static final int GenericDraweeHierarchy_placeholderImage=6;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#placeholderImageScaleType}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#placeholderImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3661,11 +3661,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.myfirstapp.test:placeholderImageScaleType
+     * @attr name com.igortarasenko.lifeacademy.test:placeholderImageScaleType
      */
     public static final int GenericDraweeHierarchy_placeholderImageScaleType=7;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#pressedStateOverlayImage}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#pressedStateOverlayImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3673,20 +3673,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:pressedStateOverlayImage
+     * @attr name com.igortarasenko.lifeacademy.test:pressedStateOverlayImage
      */
     public static final int GenericDraweeHierarchy_pressedStateOverlayImage=8;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#progressBarAutoRotateInterval}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#progressBarAutoRotateInterval}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.myfirstapp.test:progressBarAutoRotateInterval
+     * @attr name com.igortarasenko.lifeacademy.test:progressBarAutoRotateInterval
      */
     public static final int GenericDraweeHierarchy_progressBarAutoRotateInterval=9;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#progressBarImage}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#progressBarImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3694,11 +3694,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:progressBarImage
+     * @attr name com.igortarasenko.lifeacademy.test:progressBarImage
      */
     public static final int GenericDraweeHierarchy_progressBarImage=10;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#progressBarImageScaleType}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#progressBarImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3718,11 +3718,11 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.myfirstapp.test:progressBarImageScaleType
+     * @attr name com.igortarasenko.lifeacademy.test:progressBarImageScaleType
      */
     public static final int GenericDraweeHierarchy_progressBarImageScaleType=11;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#retryImage}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#retryImage}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3730,11 +3730,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:retryImage
+     * @attr name com.igortarasenko.lifeacademy.test:retryImage
      */
     public static final int GenericDraweeHierarchy_retryImage=12;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#retryImageScaleType}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#retryImageScaleType}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3754,72 +3754,72 @@ public final class R {
      * <tr><td>none</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.myfirstapp.test:retryImageScaleType
+     * @attr name com.igortarasenko.lifeacademy.test:retryImageScaleType
      */
     public static final int GenericDraweeHierarchy_retryImageScaleType=13;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#roundAsCircle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#roundAsCircle}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:roundAsCircle
+     * @attr name com.igortarasenko.lifeacademy.test:roundAsCircle
      */
     public static final int GenericDraweeHierarchy_roundAsCircle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#roundBottomLeft}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#roundBottomLeft}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:roundBottomLeft
+     * @attr name com.igortarasenko.lifeacademy.test:roundBottomLeft
      */
     public static final int GenericDraweeHierarchy_roundBottomLeft=15;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#roundBottomRight}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#roundBottomRight}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:roundBottomRight
+     * @attr name com.igortarasenko.lifeacademy.test:roundBottomRight
      */
     public static final int GenericDraweeHierarchy_roundBottomRight=16;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#roundTopLeft}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#roundTopLeft}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:roundTopLeft
+     * @attr name com.igortarasenko.lifeacademy.test:roundTopLeft
      */
     public static final int GenericDraweeHierarchy_roundTopLeft=17;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#roundTopRight}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#roundTopRight}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:roundTopRight
+     * @attr name com.igortarasenko.lifeacademy.test:roundTopRight
      */
     public static final int GenericDraweeHierarchy_roundTopRight=18;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#roundWithOverlayColor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#roundWithOverlayColor}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:roundWithOverlayColor
+     * @attr name com.igortarasenko.lifeacademy.test:roundWithOverlayColor
      */
     public static final int GenericDraweeHierarchy_roundWithOverlayColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#roundedCornerRadius}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#roundedCornerRadius}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3828,22 +3828,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:roundedCornerRadius
+     * @attr name com.igortarasenko.lifeacademy.test:roundedCornerRadius
      */
     public static final int GenericDraweeHierarchy_roundedCornerRadius=20;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#roundingBorderColor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#roundingBorderColor}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:roundingBorderColor
+     * @attr name com.igortarasenko.lifeacademy.test:roundingBorderColor
      */
     public static final int GenericDraweeHierarchy_roundingBorderColor=21;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#roundingBorderPadding}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#roundingBorderPadding}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3852,11 +3852,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:roundingBorderPadding
+     * @attr name com.igortarasenko.lifeacademy.test:roundingBorderPadding
      */
     public static final int GenericDraweeHierarchy_roundingBorderPadding=22;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#roundingBorderWidth}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#roundingBorderWidth}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3865,16 +3865,16 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:roundingBorderWidth
+     * @attr name com.igortarasenko.lifeacademy.test:roundingBorderWidth
      */
     public static final int GenericDraweeHierarchy_roundingBorderWidth=23;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#viewAspectRatio}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#viewAspectRatio}
      * attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.myfirstapp.test:viewAspectRatio
+     * @attr name com.igortarasenko.lifeacademy.test:viewAspectRatio
      */
     public static final int GenericDraweeHierarchy_viewAspectRatio=24;
     /**
@@ -3889,10 +3889,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.myfirstapp.test:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.myfirstapp.test:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.myfirstapp.test:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.myfirstapp.test:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.igortarasenko.lifeacademy.test:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.igortarasenko.lifeacademy.test:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.igortarasenko.lifeacademy.test:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.igortarasenko.lifeacademy.test:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -3905,8 +3905,8 @@ public final class R {
      * @see #LinearLayoutCompat_showDividers
      */
     public static final int[] LinearLayoutCompat={
-        0x010100af, 0x010100c4, 0x01010126, 0x01010127, 
-        0x01010128, 0x7f020058, 0x7f02005a, 0x7f020082, 
+        0x010100af, 0x010100c4, 0x01010126, 0x01010127,
+        0x01010128, 0x7f020058, 0x7f02005a, 0x7f020082,
         0x7f0200b0
       };
     /**
@@ -4088,7 +4088,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4096,11 +4096,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:divider
+     * @attr name com.igortarasenko.lifeacademy.test:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4109,21 +4109,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:dividerPadding
+     * @attr name com.igortarasenko.lifeacademy.test:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:measureWithLargestChild
+     * @attr name com.igortarasenko.lifeacademy.test:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -4138,7 +4138,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.myfirstapp.test:showDividers
+     * @attr name com.igortarasenko.lifeacademy.test:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -4205,7 +4205,7 @@ public final class R {
      * @see #MenuGroup_android_checkableBehavior
      */
     public static final int[] MenuGroup={
-        0x0101000e, 0x010100d0, 0x01010194, 0x010101de, 
+        0x0101000e, 0x010100d0, 0x01010194, 0x010101de,
         0x010101df, 0x010101e0
       };
     /**
@@ -4306,10 +4306,10 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.myfirstapp.test:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.myfirstapp.test:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.myfirstapp.test:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.myfirstapp.test:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.igortarasenko.lifeacademy.test:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.igortarasenko.lifeacademy.test:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.igortarasenko.lifeacademy.test:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.igortarasenko.lifeacademy.test:showAsAction}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -4330,14 +4330,14 @@ public final class R {
      * @see #MenuItem_showAsAction
      */
     public static final int[] MenuItem={
-        0x01010002, 0x0101000e, 0x010100d0, 0x01010106, 
-        0x01010194, 0x010101de, 0x010101df, 0x010101e1, 
-        0x010101e2, 0x010101e3, 0x010101e4, 0x010101e5, 
-        0x0101026f, 0x7f02000d, 0x7f02001f, 0x7f020020, 
+        0x01010002, 0x0101000e, 0x010100d0, 0x01010106,
+        0x01010194, 0x010101de, 0x010101df, 0x010101e1,
+        0x010101e2, 0x010101e3, 0x010101e4, 0x010101e5,
+        0x0101026f, 0x7f02000d, 0x7f02001f, 0x7f020020,
         0x7f0200af
       };
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4345,27 +4345,27 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionLayout
+     * @attr name com.igortarasenko.lifeacademy.test:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.myfirstapp.test:actionProviderClass
+     * @attr name com.igortarasenko.lifeacademy.test:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.myfirstapp.test:actionViewClass
+     * @attr name com.igortarasenko.lifeacademy.test:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -4511,7 +4511,7 @@ public final class R {
      */
     public static final int MenuItem_android_visible=4;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -4527,7 +4527,7 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.myfirstapp.test:showAsAction
+     * @attr name com.igortarasenko.lifeacademy.test:showAsAction
      */
     public static final int MenuItem_showAsAction=16;
     /**
@@ -4544,7 +4544,7 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.myfirstapp.test:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.igortarasenko.lifeacademy.test:preserveIconSpacing}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -4556,7 +4556,7 @@ public final class R {
      * @see #MenuView_preserveIconSpacing
      */
     public static final int[] MenuView={
-        0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e, 
+        0x010100ae, 0x0101012c, 0x0101012d, 0x0101012e,
         0x0101012f, 0x01010130, 0x01010131, 0x7f020093
       };
     /**
@@ -4647,13 +4647,13 @@ public final class R {
      */
     public static final int MenuView_android_windowAnimationStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:preserveIconSpacing
+     * @attr name com.igortarasenko.lifeacademy.test:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -4664,7 +4664,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.myfirstapp.test:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.igortarasenko.lifeacademy.test:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_overlapAnchor
@@ -4679,7 +4679,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.myfirstapp.test:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.igortarasenko.lifeacademy.test:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -4687,13 +4687,13 @@ public final class R {
         0x7f0200b7
       };
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:state_above_anchor
+     * @attr name com.igortarasenko.lifeacademy.test:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -4712,13 +4712,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:overlapAnchor
+     * @attr name com.igortarasenko.lifeacademy.test:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=1;
     /**
@@ -4732,19 +4732,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.myfirstapp.test:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.myfirstapp.test:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.myfirstapp.test:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.myfirstapp.test:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.myfirstapp.test:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.myfirstapp.test:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.myfirstapp.test:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.myfirstapp.test:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.myfirstapp.test:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.myfirstapp.test:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.myfirstapp.test:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.myfirstapp.test:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.myfirstapp.test:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.igortarasenko.lifeacademy.test:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.igortarasenko.lifeacademy.test:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.igortarasenko.lifeacademy.test:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.igortarasenko.lifeacademy.test:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.igortarasenko.lifeacademy.test:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.igortarasenko.lifeacademy.test:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.igortarasenko.lifeacademy.test:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.igortarasenko.lifeacademy.test:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.igortarasenko.lifeacademy.test:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.igortarasenko.lifeacademy.test:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.igortarasenko.lifeacademy.test:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.igortarasenko.lifeacademy.test:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.igortarasenko.lifeacademy.test:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -4765,10 +4765,10 @@ public final class R {
      * @see #SearchView_voiceIcon
      */
     public static final int[] SearchView={
-        0x010100da, 0x0101011f, 0x01010220, 0x01010264, 
-        0x7f020040, 0x7f02004d, 0x7f020054, 0x7f020069, 
-        0x7f02006f, 0x7f020074, 0x7f02009a, 0x7f02009b, 
-        0x7f0200aa, 0x7f0200ab, 0x7f0200b8, 0x7f0200bd, 
+        0x010100da, 0x0101011f, 0x01010220, 0x01010264,
+        0x7f020040, 0x7f02004d, 0x7f020054, 0x7f020069,
+        0x7f02006f, 0x7f020074, 0x7f02009a, 0x7f02009b,
+        0x7f0200aa, 0x7f0200ab, 0x7f0200b8, 0x7f0200bd,
         0x7f0200db
       };
     /**
@@ -4873,7 +4873,7 @@ public final class R {
      */
     public static final int SearchView_android_maxWidth=1;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4881,11 +4881,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:closeIcon
+     * @attr name com.igortarasenko.lifeacademy.test:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4893,21 +4893,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:commitIcon
+     * @attr name com.igortarasenko.lifeacademy.test:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.myfirstapp.test:defaultQueryHint
+     * @attr name com.igortarasenko.lifeacademy.test:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4915,21 +4915,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:goIcon
+     * @attr name com.igortarasenko.lifeacademy.test:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:iconifiedByDefault
+     * @attr name com.igortarasenko.lifeacademy.test:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4937,11 +4937,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:layout
+     * @attr name com.igortarasenko.lifeacademy.test:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4949,21 +4949,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:queryBackground
+     * @attr name com.igortarasenko.lifeacademy.test:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.myfirstapp.test:queryHint
+     * @attr name com.igortarasenko.lifeacademy.test:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4971,11 +4971,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:searchHintIcon
+     * @attr name com.igortarasenko.lifeacademy.test:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4983,11 +4983,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:searchIcon
+     * @attr name com.igortarasenko.lifeacademy.test:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4995,11 +4995,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:submitBackground
+     * @attr name com.igortarasenko.lifeacademy.test:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5007,11 +5007,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:suggestionRowLayout
+     * @attr name com.igortarasenko.lifeacademy.test:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5019,7 +5019,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:voiceIcon
+     * @attr name com.igortarasenko.lifeacademy.test:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -5029,8 +5029,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_actualImageResource com.myfirstapp.test:actualImageResource}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.myfirstapp.test:actualImageUri}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_actualImageResource com.igortarasenko.lifeacademy.test:actualImageResource}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.igortarasenko.lifeacademy.test:actualImageUri}</code></td><td></td></tr>
      * </table>
      * @see #SimpleDraweeView_actualImageResource
      * @see #SimpleDraweeView_actualImageUri
@@ -5039,7 +5039,7 @@ public final class R {
         0x7f020022, 0x7f020024
       };
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actualImageResource}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actualImageResource}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5047,17 +5047,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actualImageResource
+     * @attr name com.igortarasenko.lifeacademy.test:actualImageResource
      */
     public static final int SimpleDraweeView_actualImageResource=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actualImageUri}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actualImageUri}
      * attribute's value can be found in the {@link #SimpleDraweeView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.myfirstapp.test:actualImageUri
+     * @attr name com.igortarasenko.lifeacademy.test:actualImageUri
      */
     public static final int SimpleDraweeView_actualImageUri=1;
     /**
@@ -5070,7 +5070,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.myfirstapp.test:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.igortarasenko.lifeacademy.test:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_popupBackground
      * @see #Spinner_android_prompt
@@ -5131,7 +5131,7 @@ public final class R {
      */
     public static final int Spinner_android_prompt=1;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5139,7 +5139,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:popupTheme
+     * @attr name com.igortarasenko.lifeacademy.test:popupTheme
      */
     public static final int Spinner_popupTheme=3;
     /**
@@ -5152,13 +5152,13 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.myfirstapp.test:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.myfirstapp.test:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.myfirstapp.test:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.myfirstapp.test:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.myfirstapp.test:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.myfirstapp.test:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.myfirstapp.test:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.igortarasenko.lifeacademy.test:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.igortarasenko.lifeacademy.test:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.igortarasenko.lifeacademy.test:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.igortarasenko.lifeacademy.test:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.igortarasenko.lifeacademy.test:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.igortarasenko.lifeacademy.test:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.igortarasenko.lifeacademy.test:track}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -5172,8 +5172,8 @@ public final class R {
      * @see #SwitchCompat_track
      */
     public static final int[] SwitchCompat={
-        0x01010124, 0x01010125, 0x01010142, 0x7f0200b1, 
-        0x7f0200b6, 0x7f0200be, 0x7f0200bf, 0x7f0200c1, 
+        0x01010124, 0x01010125, 0x01010142, 0x7f0200b1,
+        0x7f0200b6, 0x7f0200be, 0x7f0200bf, 0x7f0200c1,
         0x7f0200cd, 0x7f0200d9
       };
     /**
@@ -5209,27 +5209,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:showText
+     * @attr name com.igortarasenko.lifeacademy.test:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:splitTrack
+     * @attr name com.igortarasenko.lifeacademy.test:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5238,11 +5238,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:switchMinWidth
+     * @attr name com.igortarasenko.lifeacademy.test:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5251,11 +5251,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:switchPadding
+     * @attr name com.igortarasenko.lifeacademy.test:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5263,11 +5263,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:switchTextAppearance
+     * @attr name com.igortarasenko.lifeacademy.test:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5276,11 +5276,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:thumbTextPadding
+     * @attr name com.igortarasenko.lifeacademy.test:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5288,7 +5288,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:track
+     * @attr name com.igortarasenko.lifeacademy.test:track
      */
     public static final int SwitchCompat_track=9;
     /**
@@ -5306,7 +5306,7 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDx android:shadowDx}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.myfirstapp.test:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.igortarasenko.lifeacademy.test:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -5319,8 +5319,8 @@ public final class R {
      * @see #TextAppearance_textAllCaps
      */
     public static final int[] TextAppearance={
-        0x01010095, 0x01010096, 0x01010097, 0x01010098, 
-        0x01010161, 0x01010162, 0x01010163, 0x01010164, 
+        0x01010095, 0x01010096, 0x01010097, 0x01010098,
+        0x01010161, 0x01010162, 0x01010163, 0x01010164,
         0x7f0200c2
       };
     /**
@@ -5427,7 +5427,7 @@ public final class R {
      */
     public static final int TextAppearance_android_typeface=1;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5437,7 +5437,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:textAllCaps
+     * @attr name com.igortarasenko.lifeacademy.test:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=8;
     /**
@@ -5472,8 +5472,8 @@ public final class R {
      * @see #TextStyle_android_shadowRadius
      */
     public static final int[] TextStyle={
-        0x01010034, 0x01010095, 0x01010097, 0x01010098, 
-        0x010100ab, 0x01010153, 0x0101015d, 0x01010161, 
+        0x01010034, 0x01010095, 0x01010097, 0x01010098,
+        0x010100ab, 0x01010153, 0x0101015d, 0x01010161,
         0x01010162, 0x01010163, 0x01010164
       };
     /**
@@ -5620,112 +5620,112 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarDivider com.myfirstapp.test:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarItemBackground com.myfirstapp.test:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarPopupTheme com.myfirstapp.test:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarSize com.myfirstapp.test:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarSplitStyle com.myfirstapp.test:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarStyle com.myfirstapp.test:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarTabBarStyle com.myfirstapp.test:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarTabStyle com.myfirstapp.test:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarTabTextStyle com.myfirstapp.test:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarTheme com.myfirstapp.test:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionBarWidgetTheme com.myfirstapp.test:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionButtonStyle com.myfirstapp.test:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionDropDownStyle com.myfirstapp.test:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionMenuTextAppearance com.myfirstapp.test:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionMenuTextColor com.myfirstapp.test:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModeBackground com.myfirstapp.test:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.myfirstapp.test:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModeCloseDrawable com.myfirstapp.test:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModeCopyDrawable com.myfirstapp.test:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModeCutDrawable com.myfirstapp.test:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModeFindDrawable com.myfirstapp.test:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModePasteDrawable com.myfirstapp.test:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.myfirstapp.test:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.myfirstapp.test:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModeShareDrawable com.myfirstapp.test:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModeSplitBackground com.myfirstapp.test:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModeStyle com.myfirstapp.test:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.myfirstapp.test:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.myfirstapp.test:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.myfirstapp.test:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_activityChooserViewStyle com.myfirstapp.test:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.myfirstapp.test:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_alertDialogCenterButtons com.myfirstapp.test:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_alertDialogStyle com.myfirstapp.test:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_alertDialogTheme com.myfirstapp.test:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.myfirstapp.test:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_borderlessButtonStyle com.myfirstapp.test:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_buttonBarButtonStyle com.myfirstapp.test:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.myfirstapp.test:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.myfirstapp.test:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.myfirstapp.test:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_buttonBarStyle com.myfirstapp.test:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_buttonStyle com.myfirstapp.test:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_buttonStyleSmall com.myfirstapp.test:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_checkboxStyle com.myfirstapp.test:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_checkedTextViewStyle com.myfirstapp.test:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_colorAccent com.myfirstapp.test:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_colorButtonNormal com.myfirstapp.test:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_colorControlActivated com.myfirstapp.test:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_colorControlHighlight com.myfirstapp.test:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_colorControlNormal com.myfirstapp.test:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_colorPrimary com.myfirstapp.test:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_colorPrimaryDark com.myfirstapp.test:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.myfirstapp.test:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_controlBackground com.myfirstapp.test:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_dialogPreferredPadding com.myfirstapp.test:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_dialogTheme com.myfirstapp.test:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_dividerHorizontal com.myfirstapp.test:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_dividerVertical com.myfirstapp.test:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_dropDownListViewStyle com.myfirstapp.test:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.myfirstapp.test:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_editTextBackground com.myfirstapp.test:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_editTextColor com.myfirstapp.test:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_editTextStyle com.myfirstapp.test:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_homeAsUpIndicator com.myfirstapp.test:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.myfirstapp.test:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_listDividerAlertDialog com.myfirstapp.test:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_listPopupWindowStyle com.myfirstapp.test:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_listPreferredItemHeight com.myfirstapp.test:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.myfirstapp.test:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.myfirstapp.test:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.myfirstapp.test:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.myfirstapp.test:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_panelBackground com.myfirstapp.test:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_panelMenuListTheme com.myfirstapp.test:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_panelMenuListWidth com.myfirstapp.test:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_popupMenuStyle com.myfirstapp.test:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_popupWindowStyle com.myfirstapp.test:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_radioButtonStyle com.myfirstapp.test:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_ratingBarStyle com.myfirstapp.test:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_searchViewStyle com.myfirstapp.test:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_selectableItemBackground com.myfirstapp.test:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.myfirstapp.test:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.myfirstapp.test:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_spinnerStyle com.myfirstapp.test:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_switchStyle com.myfirstapp.test:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.myfirstapp.test:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_textAppearanceListItem com.myfirstapp.test:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.myfirstapp.test:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.myfirstapp.test:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.myfirstapp.test:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.myfirstapp.test:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.myfirstapp.test:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_textColorSearchUrl com.myfirstapp.test:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.myfirstapp.test:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_toolbarStyle com.myfirstapp.test:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_windowActionBar com.myfirstapp.test:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_windowActionBarOverlay com.myfirstapp.test:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_windowActionModeOverlay com.myfirstapp.test:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_windowFixedHeightMajor com.myfirstapp.test:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_windowFixedHeightMinor com.myfirstapp.test:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_windowFixedWidthMajor com.myfirstapp.test:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_windowFixedWidthMinor com.myfirstapp.test:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_windowMinWidthMajor com.myfirstapp.test:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_windowMinWidthMinor com.myfirstapp.test:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Theme_windowNoTitle com.myfirstapp.test:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarDivider com.igortarasenko.lifeacademy.test:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarItemBackground com.igortarasenko.lifeacademy.test:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarPopupTheme com.igortarasenko.lifeacademy.test:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarSize com.igortarasenko.lifeacademy.test:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarSplitStyle com.igortarasenko.lifeacademy.test:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarStyle com.igortarasenko.lifeacademy.test:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarTabBarStyle com.igortarasenko.lifeacademy.test:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarTabStyle com.igortarasenko.lifeacademy.test:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarTabTextStyle com.igortarasenko.lifeacademy.test:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarTheme com.igortarasenko.lifeacademy.test:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionBarWidgetTheme com.igortarasenko.lifeacademy.test:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionButtonStyle com.igortarasenko.lifeacademy.test:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionDropDownStyle com.igortarasenko.lifeacademy.test:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionMenuTextAppearance com.igortarasenko.lifeacademy.test:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionMenuTextColor com.igortarasenko.lifeacademy.test:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeBackground com.igortarasenko.lifeacademy.test:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.igortarasenko.lifeacademy.test:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeCloseDrawable com.igortarasenko.lifeacademy.test:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeCopyDrawable com.igortarasenko.lifeacademy.test:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeCutDrawable com.igortarasenko.lifeacademy.test:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeFindDrawable com.igortarasenko.lifeacademy.test:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModePasteDrawable com.igortarasenko.lifeacademy.test:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.igortarasenko.lifeacademy.test:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.igortarasenko.lifeacademy.test:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeShareDrawable com.igortarasenko.lifeacademy.test:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeSplitBackground com.igortarasenko.lifeacademy.test:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeStyle com.igortarasenko.lifeacademy.test:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.igortarasenko.lifeacademy.test:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.igortarasenko.lifeacademy.test:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.igortarasenko.lifeacademy.test:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_activityChooserViewStyle com.igortarasenko.lifeacademy.test:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.igortarasenko.lifeacademy.test:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_alertDialogCenterButtons com.igortarasenko.lifeacademy.test:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_alertDialogStyle com.igortarasenko.lifeacademy.test:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_alertDialogTheme com.igortarasenko.lifeacademy.test:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.igortarasenko.lifeacademy.test:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_borderlessButtonStyle com.igortarasenko.lifeacademy.test:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_buttonBarButtonStyle com.igortarasenko.lifeacademy.test:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.igortarasenko.lifeacademy.test:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.igortarasenko.lifeacademy.test:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.igortarasenko.lifeacademy.test:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_buttonBarStyle com.igortarasenko.lifeacademy.test:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_buttonStyle com.igortarasenko.lifeacademy.test:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_buttonStyleSmall com.igortarasenko.lifeacademy.test:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_checkboxStyle com.igortarasenko.lifeacademy.test:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_checkedTextViewStyle com.igortarasenko.lifeacademy.test:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorAccent com.igortarasenko.lifeacademy.test:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorButtonNormal com.igortarasenko.lifeacademy.test:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorControlActivated com.igortarasenko.lifeacademy.test:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorControlHighlight com.igortarasenko.lifeacademy.test:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorControlNormal com.igortarasenko.lifeacademy.test:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorPrimary com.igortarasenko.lifeacademy.test:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorPrimaryDark com.igortarasenko.lifeacademy.test:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.igortarasenko.lifeacademy.test:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_controlBackground com.igortarasenko.lifeacademy.test:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_dialogPreferredPadding com.igortarasenko.lifeacademy.test:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_dialogTheme com.igortarasenko.lifeacademy.test:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_dividerHorizontal com.igortarasenko.lifeacademy.test:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_dividerVertical com.igortarasenko.lifeacademy.test:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_dropDownListViewStyle com.igortarasenko.lifeacademy.test:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.igortarasenko.lifeacademy.test:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_editTextBackground com.igortarasenko.lifeacademy.test:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_editTextColor com.igortarasenko.lifeacademy.test:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_editTextStyle com.igortarasenko.lifeacademy.test:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_homeAsUpIndicator com.igortarasenko.lifeacademy.test:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.igortarasenko.lifeacademy.test:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_listDividerAlertDialog com.igortarasenko.lifeacademy.test:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_listPopupWindowStyle com.igortarasenko.lifeacademy.test:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_listPreferredItemHeight com.igortarasenko.lifeacademy.test:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.igortarasenko.lifeacademy.test:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.igortarasenko.lifeacademy.test:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.igortarasenko.lifeacademy.test:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.igortarasenko.lifeacademy.test:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_panelBackground com.igortarasenko.lifeacademy.test:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_panelMenuListTheme com.igortarasenko.lifeacademy.test:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_panelMenuListWidth com.igortarasenko.lifeacademy.test:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_popupMenuStyle com.igortarasenko.lifeacademy.test:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_popupWindowStyle com.igortarasenko.lifeacademy.test:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_radioButtonStyle com.igortarasenko.lifeacademy.test:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_ratingBarStyle com.igortarasenko.lifeacademy.test:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_searchViewStyle com.igortarasenko.lifeacademy.test:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_selectableItemBackground com.igortarasenko.lifeacademy.test:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.igortarasenko.lifeacademy.test:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.igortarasenko.lifeacademy.test:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_spinnerStyle com.igortarasenko.lifeacademy.test:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_switchStyle com.igortarasenko.lifeacademy.test:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.igortarasenko.lifeacademy.test:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textAppearanceListItem com.igortarasenko.lifeacademy.test:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.igortarasenko.lifeacademy.test:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.igortarasenko.lifeacademy.test:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.igortarasenko.lifeacademy.test:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.igortarasenko.lifeacademy.test:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.igortarasenko.lifeacademy.test:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_textColorSearchUrl com.igortarasenko.lifeacademy.test:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.igortarasenko.lifeacademy.test:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_toolbarStyle com.igortarasenko.lifeacademy.test:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowActionBar com.igortarasenko.lifeacademy.test:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowActionBarOverlay com.igortarasenko.lifeacademy.test:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowActionModeOverlay com.igortarasenko.lifeacademy.test:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowFixedHeightMajor com.igortarasenko.lifeacademy.test:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowFixedHeightMinor com.igortarasenko.lifeacademy.test:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowFixedWidthMajor com.igortarasenko.lifeacademy.test:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowFixedWidthMinor com.igortarasenko.lifeacademy.test:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowMinWidthMajor com.igortarasenko.lifeacademy.test:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowMinWidthMinor com.igortarasenko.lifeacademy.test:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Theme_windowNoTitle com.igortarasenko.lifeacademy.test:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #Theme_android_windowIsFloating
      * @see #Theme_android_windowAnimationStyle
@@ -5837,36 +5837,36 @@ public final class R {
      * @see #Theme_windowNoTitle
      */
     public static final int[] Theme={
-        0x01010057, 0x010100ae, 0x7f020000, 0x7f020001, 
-        0x7f020002, 0x7f020003, 0x7f020004, 0x7f020005, 
-        0x7f020006, 0x7f020007, 0x7f020008, 0x7f020009, 
-        0x7f02000a, 0x7f02000b, 0x7f02000c, 0x7f02000e, 
-        0x7f02000f, 0x7f020010, 0x7f020011, 0x7f020012, 
-        0x7f020013, 0x7f020014, 0x7f020015, 0x7f020016, 
-        0x7f020017, 0x7f020018, 0x7f020019, 0x7f02001a, 
-        0x7f02001b, 0x7f02001c, 0x7f02001d, 0x7f02001e, 
-        0x7f020021, 0x7f020025, 0x7f020026, 0x7f020027, 
-        0x7f020028, 0x7f02002b, 0x7f020033, 0x7f020034, 
-        0x7f020035, 0x7f020036, 0x7f020037, 0x7f020038, 
-        0x7f02003a, 0x7f02003b, 0x7f02003e, 0x7f02003f, 
-        0x7f020045, 0x7f020046, 0x7f020047, 0x7f020048, 
-        0x7f020049, 0x7f02004a, 0x7f02004b, 0x7f02004c, 
-        0x7f020052, 0x7f020055, 0x7f020056, 0x7f020059, 
-        0x7f02005b, 0x7f02005e, 0x7f02005f, 0x7f020060, 
-        0x7f020061, 0x7f020062, 0x7f02006c, 0x7f020075, 
-        0x7f020076, 0x7f020079, 0x7f02007a, 0x7f02007b, 
-        0x7f02007c, 0x7f02007d, 0x7f02007e, 0x7f02008b, 
-        0x7f02008c, 0x7f02008d, 0x7f020090, 0x7f020092, 
-        0x7f02009c, 0x7f02009d, 0x7f0200ac, 0x7f0200ad, 
-        0x7f0200ae, 0x7f0200b4, 0x7f0200b5, 0x7f0200c0, 
-        0x7f0200c3, 0x7f0200c4, 0x7f0200c5, 0x7f0200c6, 
-        0x7f0200c7, 0x7f0200c8, 0x7f0200c9, 0x7f0200ca, 
-        0x7f0200d7, 0x7f0200d8, 0x7f0200dc, 0x7f0200dd, 
-        0x7f0200de, 0x7f0200df, 0x7f0200e0, 0x7f0200e1, 
+        0x01010057, 0x010100ae, 0x7f020000, 0x7f020001,
+        0x7f020002, 0x7f020003, 0x7f020004, 0x7f020005,
+        0x7f020006, 0x7f020007, 0x7f020008, 0x7f020009,
+        0x7f02000a, 0x7f02000b, 0x7f02000c, 0x7f02000e,
+        0x7f02000f, 0x7f020010, 0x7f020011, 0x7f020012,
+        0x7f020013, 0x7f020014, 0x7f020015, 0x7f020016,
+        0x7f020017, 0x7f020018, 0x7f020019, 0x7f02001a,
+        0x7f02001b, 0x7f02001c, 0x7f02001d, 0x7f02001e,
+        0x7f020021, 0x7f020025, 0x7f020026, 0x7f020027,
+        0x7f020028, 0x7f02002b, 0x7f020033, 0x7f020034,
+        0x7f020035, 0x7f020036, 0x7f020037, 0x7f020038,
+        0x7f02003a, 0x7f02003b, 0x7f02003e, 0x7f02003f,
+        0x7f020045, 0x7f020046, 0x7f020047, 0x7f020048,
+        0x7f020049, 0x7f02004a, 0x7f02004b, 0x7f02004c,
+        0x7f020052, 0x7f020055, 0x7f020056, 0x7f020059,
+        0x7f02005b, 0x7f02005e, 0x7f02005f, 0x7f020060,
+        0x7f020061, 0x7f020062, 0x7f02006c, 0x7f020075,
+        0x7f020076, 0x7f020079, 0x7f02007a, 0x7f02007b,
+        0x7f02007c, 0x7f02007d, 0x7f02007e, 0x7f02008b,
+        0x7f02008c, 0x7f02008d, 0x7f020090, 0x7f020092,
+        0x7f02009c, 0x7f02009d, 0x7f0200ac, 0x7f0200ad,
+        0x7f0200ae, 0x7f0200b4, 0x7f0200b5, 0x7f0200c0,
+        0x7f0200c3, 0x7f0200c4, 0x7f0200c5, 0x7f0200c6,
+        0x7f0200c7, 0x7f0200c8, 0x7f0200c9, 0x7f0200ca,
+        0x7f0200d7, 0x7f0200d8, 0x7f0200dc, 0x7f0200dd,
+        0x7f0200de, 0x7f0200df, 0x7f0200e0, 0x7f0200e1,
         0x7f0200e2, 0x7f0200e3, 0x7f0200e4, 0x7f0200e5
       };
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5874,11 +5874,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionBarDivider
+     * @attr name com.igortarasenko.lifeacademy.test:actionBarDivider
      */
     public static final int Theme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5886,11 +5886,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionBarItemBackground
+     * @attr name com.igortarasenko.lifeacademy.test:actionBarItemBackground
      */
     public static final int Theme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5898,11 +5898,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionBarPopupTheme
+     * @attr name com.igortarasenko.lifeacademy.test:actionBarPopupTheme
      */
     public static final int Theme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5919,11 +5919,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.myfirstapp.test:actionBarSize
+     * @attr name com.igortarasenko.lifeacademy.test:actionBarSize
      */
     public static final int Theme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5931,11 +5931,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionBarSplitStyle
+     * @attr name com.igortarasenko.lifeacademy.test:actionBarSplitStyle
      */
     public static final int Theme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5943,11 +5943,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionBarStyle
+     * @attr name com.igortarasenko.lifeacademy.test:actionBarStyle
      */
     public static final int Theme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5955,11 +5955,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionBarTabBarStyle
+     * @attr name com.igortarasenko.lifeacademy.test:actionBarTabBarStyle
      */
     public static final int Theme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5967,11 +5967,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionBarTabStyle
+     * @attr name com.igortarasenko.lifeacademy.test:actionBarTabStyle
      */
     public static final int Theme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5979,11 +5979,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionBarTabTextStyle
+     * @attr name com.igortarasenko.lifeacademy.test:actionBarTabTextStyle
      */
     public static final int Theme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5991,11 +5991,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionBarTheme
+     * @attr name com.igortarasenko.lifeacademy.test:actionBarTheme
      */
     public static final int Theme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6003,11 +6003,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionBarWidgetTheme
+     * @attr name com.igortarasenko.lifeacademy.test:actionBarWidgetTheme
      */
     public static final int Theme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6015,11 +6015,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionButtonStyle
+     * @attr name com.igortarasenko.lifeacademy.test:actionButtonStyle
      */
     public static final int Theme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6027,11 +6027,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionDropDownStyle
+     * @attr name com.igortarasenko.lifeacademy.test:actionDropDownStyle
      */
     public static final int Theme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6039,11 +6039,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionMenuTextAppearance
+     * @attr name com.igortarasenko.lifeacademy.test:actionMenuTextAppearance
      */
     public static final int Theme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6054,11 +6054,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionMenuTextColor
+     * @attr name com.igortarasenko.lifeacademy.test:actionMenuTextColor
      */
     public static final int Theme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6066,11 +6066,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionModeBackground
+     * @attr name com.igortarasenko.lifeacademy.test:actionModeBackground
      */
     public static final int Theme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6078,11 +6078,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionModeCloseButtonStyle
+     * @attr name com.igortarasenko.lifeacademy.test:actionModeCloseButtonStyle
      */
     public static final int Theme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6090,11 +6090,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionModeCloseDrawable
+     * @attr name com.igortarasenko.lifeacademy.test:actionModeCloseDrawable
      */
     public static final int Theme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6102,11 +6102,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionModeCopyDrawable
+     * @attr name com.igortarasenko.lifeacademy.test:actionModeCopyDrawable
      */
     public static final int Theme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6114,11 +6114,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionModeCutDrawable
+     * @attr name com.igortarasenko.lifeacademy.test:actionModeCutDrawable
      */
     public static final int Theme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6126,11 +6126,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionModeFindDrawable
+     * @attr name com.igortarasenko.lifeacademy.test:actionModeFindDrawable
      */
     public static final int Theme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6138,11 +6138,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionModePasteDrawable
+     * @attr name com.igortarasenko.lifeacademy.test:actionModePasteDrawable
      */
     public static final int Theme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6150,11 +6150,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionModePopupWindowStyle
+     * @attr name com.igortarasenko.lifeacademy.test:actionModePopupWindowStyle
      */
     public static final int Theme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6162,11 +6162,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionModeSelectAllDrawable
+     * @attr name com.igortarasenko.lifeacademy.test:actionModeSelectAllDrawable
      */
     public static final int Theme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6174,11 +6174,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionModeShareDrawable
+     * @attr name com.igortarasenko.lifeacademy.test:actionModeShareDrawable
      */
     public static final int Theme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6186,11 +6186,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionModeSplitBackground
+     * @attr name com.igortarasenko.lifeacademy.test:actionModeSplitBackground
      */
     public static final int Theme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6198,11 +6198,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionModeStyle
+     * @attr name com.igortarasenko.lifeacademy.test:actionModeStyle
      */
     public static final int Theme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6210,11 +6210,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionModeWebSearchDrawable
+     * @attr name com.igortarasenko.lifeacademy.test:actionModeWebSearchDrawable
      */
     public static final int Theme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6222,11 +6222,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionOverflowButtonStyle
+     * @attr name com.igortarasenko.lifeacademy.test:actionOverflowButtonStyle
      */
     public static final int Theme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6234,11 +6234,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:actionOverflowMenuStyle
+     * @attr name com.igortarasenko.lifeacademy.test:actionOverflowMenuStyle
      */
     public static final int Theme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6246,11 +6246,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:activityChooserViewStyle
+     * @attr name com.igortarasenko.lifeacademy.test:activityChooserViewStyle
      */
     public static final int Theme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6258,21 +6258,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:alertDialogButtonGroupStyle
+     * @attr name com.igortarasenko.lifeacademy.test:alertDialogButtonGroupStyle
      */
     public static final int Theme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:alertDialogCenterButtons
+     * @attr name com.igortarasenko.lifeacademy.test:alertDialogCenterButtons
      */
     public static final int Theme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6280,11 +6280,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:alertDialogStyle
+     * @attr name com.igortarasenko.lifeacademy.test:alertDialogStyle
      */
     public static final int Theme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6292,7 +6292,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:alertDialogTheme
+     * @attr name com.igortarasenko.lifeacademy.test:alertDialogTheme
      */
     public static final int Theme_alertDialogTheme=36;
     /**
@@ -6318,7 +6318,7 @@ public final class R {
      */
     public static final int Theme_android_windowIsFloating=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6326,11 +6326,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:autoCompleteTextViewStyle
+     * @attr name com.igortarasenko.lifeacademy.test:autoCompleteTextViewStyle
      */
     public static final int Theme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6338,11 +6338,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:borderlessButtonStyle
+     * @attr name com.igortarasenko.lifeacademy.test:borderlessButtonStyle
      */
     public static final int Theme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6350,11 +6350,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:buttonBarButtonStyle
+     * @attr name com.igortarasenko.lifeacademy.test:buttonBarButtonStyle
      */
     public static final int Theme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6362,11 +6362,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:buttonBarNegativeButtonStyle
+     * @attr name com.igortarasenko.lifeacademy.test:buttonBarNegativeButtonStyle
      */
     public static final int Theme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6374,11 +6374,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:buttonBarNeutralButtonStyle
+     * @attr name com.igortarasenko.lifeacademy.test:buttonBarNeutralButtonStyle
      */
     public static final int Theme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6386,11 +6386,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:buttonBarPositiveButtonStyle
+     * @attr name com.igortarasenko.lifeacademy.test:buttonBarPositiveButtonStyle
      */
     public static final int Theme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6398,11 +6398,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:buttonBarStyle
+     * @attr name com.igortarasenko.lifeacademy.test:buttonBarStyle
      */
     public static final int Theme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6410,11 +6410,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:buttonStyle
+     * @attr name com.igortarasenko.lifeacademy.test:buttonStyle
      */
     public static final int Theme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6422,11 +6422,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:buttonStyleSmall
+     * @attr name com.igortarasenko.lifeacademy.test:buttonStyleSmall
      */
     public static final int Theme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6434,11 +6434,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:checkboxStyle
+     * @attr name com.igortarasenko.lifeacademy.test:checkboxStyle
      */
     public static final int Theme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6446,99 +6446,99 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:checkedTextViewStyle
+     * @attr name com.igortarasenko.lifeacademy.test:checkedTextViewStyle
      */
     public static final int Theme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#colorAccent}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:colorAccent
+     * @attr name com.igortarasenko.lifeacademy.test:colorAccent
      */
     public static final int Theme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:colorButtonNormal
+     * @attr name com.igortarasenko.lifeacademy.test:colorButtonNormal
      */
     public static final int Theme_colorButtonNormal=49;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:colorControlActivated
+     * @attr name com.igortarasenko.lifeacademy.test:colorControlActivated
      */
     public static final int Theme_colorControlActivated=50;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:colorControlHighlight
+     * @attr name com.igortarasenko.lifeacademy.test:colorControlHighlight
      */
     public static final int Theme_colorControlHighlight=51;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:colorControlNormal
+     * @attr name com.igortarasenko.lifeacademy.test:colorControlNormal
      */
     public static final int Theme_colorControlNormal=52;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:colorPrimary
+     * @attr name com.igortarasenko.lifeacademy.test:colorPrimary
      */
     public static final int Theme_colorPrimary=53;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:colorPrimaryDark
+     * @attr name com.igortarasenko.lifeacademy.test:colorPrimaryDark
      */
     public static final int Theme_colorPrimaryDark=54;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:colorSwitchThumbNormal
+     * @attr name com.igortarasenko.lifeacademy.test:colorSwitchThumbNormal
      */
     public static final int Theme_colorSwitchThumbNormal=55;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#controlBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6546,11 +6546,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:controlBackground
+     * @attr name com.igortarasenko.lifeacademy.test:controlBackground
      */
     public static final int Theme_controlBackground=56;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6559,11 +6559,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:dialogPreferredPadding
+     * @attr name com.igortarasenko.lifeacademy.test:dialogPreferredPadding
      */
     public static final int Theme_dialogPreferredPadding=57;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6571,11 +6571,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:dialogTheme
+     * @attr name com.igortarasenko.lifeacademy.test:dialogTheme
      */
     public static final int Theme_dialogTheme=58;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6583,11 +6583,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:dividerHorizontal
+     * @attr name com.igortarasenko.lifeacademy.test:dividerHorizontal
      */
     public static final int Theme_dividerHorizontal=59;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6595,11 +6595,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:dividerVertical
+     * @attr name com.igortarasenko.lifeacademy.test:dividerVertical
      */
     public static final int Theme_dividerVertical=60;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6607,11 +6607,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:dropDownListViewStyle
+     * @attr name com.igortarasenko.lifeacademy.test:dropDownListViewStyle
      */
     public static final int Theme_dropDownListViewStyle=61;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6620,11 +6620,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:dropdownListPreferredItemHeight
+     * @attr name com.igortarasenko.lifeacademy.test:dropdownListPreferredItemHeight
      */
     public static final int Theme_dropdownListPreferredItemHeight=62;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6632,11 +6632,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:editTextBackground
+     * @attr name com.igortarasenko.lifeacademy.test:editTextBackground
      */
     public static final int Theme_editTextBackground=63;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#editTextColor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6647,11 +6647,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:editTextColor
+     * @attr name com.igortarasenko.lifeacademy.test:editTextColor
      */
     public static final int Theme_editTextColor=64;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6659,11 +6659,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:editTextStyle
+     * @attr name com.igortarasenko.lifeacademy.test:editTextStyle
      */
     public static final int Theme_editTextStyle=65;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6671,11 +6671,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:homeAsUpIndicator
+     * @attr name com.igortarasenko.lifeacademy.test:homeAsUpIndicator
      */
     public static final int Theme_homeAsUpIndicator=66;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6683,11 +6683,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:listChoiceBackgroundIndicator
+     * @attr name com.igortarasenko.lifeacademy.test:listChoiceBackgroundIndicator
      */
     public static final int Theme_listChoiceBackgroundIndicator=67;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6695,11 +6695,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:listDividerAlertDialog
+     * @attr name com.igortarasenko.lifeacademy.test:listDividerAlertDialog
      */
     public static final int Theme_listDividerAlertDialog=68;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6707,11 +6707,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:listPopupWindowStyle
+     * @attr name com.igortarasenko.lifeacademy.test:listPopupWindowStyle
      */
     public static final int Theme_listPopupWindowStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6720,11 +6720,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:listPreferredItemHeight
+     * @attr name com.igortarasenko.lifeacademy.test:listPreferredItemHeight
      */
     public static final int Theme_listPreferredItemHeight=70;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6733,11 +6733,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:listPreferredItemHeightLarge
+     * @attr name com.igortarasenko.lifeacademy.test:listPreferredItemHeightLarge
      */
     public static final int Theme_listPreferredItemHeightLarge=71;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6746,11 +6746,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:listPreferredItemHeightSmall
+     * @attr name com.igortarasenko.lifeacademy.test:listPreferredItemHeightSmall
      */
     public static final int Theme_listPreferredItemHeightSmall=72;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6759,11 +6759,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:listPreferredItemPaddingLeft
+     * @attr name com.igortarasenko.lifeacademy.test:listPreferredItemPaddingLeft
      */
     public static final int Theme_listPreferredItemPaddingLeft=73;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6772,11 +6772,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:listPreferredItemPaddingRight
+     * @attr name com.igortarasenko.lifeacademy.test:listPreferredItemPaddingRight
      */
     public static final int Theme_listPreferredItemPaddingRight=74;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#panelBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6784,11 +6784,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:panelBackground
+     * @attr name com.igortarasenko.lifeacademy.test:panelBackground
      */
     public static final int Theme_panelBackground=75;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6796,11 +6796,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:panelMenuListTheme
+     * @attr name com.igortarasenko.lifeacademy.test:panelMenuListTheme
      */
     public static final int Theme_panelMenuListTheme=76;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6809,11 +6809,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:panelMenuListWidth
+     * @attr name com.igortarasenko.lifeacademy.test:panelMenuListWidth
      */
     public static final int Theme_panelMenuListWidth=77;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6821,11 +6821,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:popupMenuStyle
+     * @attr name com.igortarasenko.lifeacademy.test:popupMenuStyle
      */
     public static final int Theme_popupMenuStyle=78;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6833,11 +6833,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:popupWindowStyle
+     * @attr name com.igortarasenko.lifeacademy.test:popupWindowStyle
      */
     public static final int Theme_popupWindowStyle=79;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6845,11 +6845,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:radioButtonStyle
+     * @attr name com.igortarasenko.lifeacademy.test:radioButtonStyle
      */
     public static final int Theme_radioButtonStyle=80;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6857,11 +6857,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:ratingBarStyle
+     * @attr name com.igortarasenko.lifeacademy.test:ratingBarStyle
      */
     public static final int Theme_ratingBarStyle=81;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6869,11 +6869,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:searchViewStyle
+     * @attr name com.igortarasenko.lifeacademy.test:searchViewStyle
      */
     public static final int Theme_searchViewStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6881,11 +6881,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:selectableItemBackground
+     * @attr name com.igortarasenko.lifeacademy.test:selectableItemBackground
      */
     public static final int Theme_selectableItemBackground=83;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6893,11 +6893,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:selectableItemBackgroundBorderless
+     * @attr name com.igortarasenko.lifeacademy.test:selectableItemBackgroundBorderless
      */
     public static final int Theme_selectableItemBackgroundBorderless=84;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6905,11 +6905,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:spinnerDropDownItemStyle
+     * @attr name com.igortarasenko.lifeacademy.test:spinnerDropDownItemStyle
      */
     public static final int Theme_spinnerDropDownItemStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6917,11 +6917,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:spinnerStyle
+     * @attr name com.igortarasenko.lifeacademy.test:spinnerStyle
      */
     public static final int Theme_spinnerStyle=86;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#switchStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6929,11 +6929,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:switchStyle
+     * @attr name com.igortarasenko.lifeacademy.test:switchStyle
      */
     public static final int Theme_switchStyle=87;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6941,11 +6941,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:textAppearanceLargePopupMenu
+     * @attr name com.igortarasenko.lifeacademy.test:textAppearanceLargePopupMenu
      */
     public static final int Theme_textAppearanceLargePopupMenu=88;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6953,11 +6953,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:textAppearanceListItem
+     * @attr name com.igortarasenko.lifeacademy.test:textAppearanceListItem
      */
     public static final int Theme_textAppearanceListItem=89;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6965,11 +6965,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:textAppearanceListItemSmall
+     * @attr name com.igortarasenko.lifeacademy.test:textAppearanceListItemSmall
      */
     public static final int Theme_textAppearanceListItemSmall=90;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6977,11 +6977,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:textAppearanceSearchResultSubtitle
+     * @attr name com.igortarasenko.lifeacademy.test:textAppearanceSearchResultSubtitle
      */
     public static final int Theme_textAppearanceSearchResultSubtitle=91;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6989,11 +6989,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:textAppearanceSearchResultTitle
+     * @attr name com.igortarasenko.lifeacademy.test:textAppearanceSearchResultTitle
      */
     public static final int Theme_textAppearanceSearchResultTitle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7001,11 +7001,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:textAppearanceSmallPopupMenu
+     * @attr name com.igortarasenko.lifeacademy.test:textAppearanceSmallPopupMenu
      */
     public static final int Theme_textAppearanceSmallPopupMenu=93;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7016,11 +7016,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:textColorAlertDialogListItem
+     * @attr name com.igortarasenko.lifeacademy.test:textColorAlertDialogListItem
      */
     public static final int Theme_textColorAlertDialogListItem=94;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7031,11 +7031,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:textColorSearchUrl
+     * @attr name com.igortarasenko.lifeacademy.test:textColorSearchUrl
      */
     public static final int Theme_textColorSearchUrl=95;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7043,11 +7043,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:toolbarNavigationButtonStyle
+     * @attr name com.igortarasenko.lifeacademy.test:toolbarNavigationButtonStyle
      */
     public static final int Theme_toolbarNavigationButtonStyle=96;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7055,41 +7055,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:toolbarStyle
+     * @attr name com.igortarasenko.lifeacademy.test:toolbarStyle
      */
     public static final int Theme_toolbarStyle=97;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:windowActionBar
+     * @attr name com.igortarasenko.lifeacademy.test:windowActionBar
      */
     public static final int Theme_windowActionBar=98;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:windowActionBarOverlay
+     * @attr name com.igortarasenko.lifeacademy.test:windowActionBarOverlay
      */
     public static final int Theme_windowActionBarOverlay=99;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:windowActionModeOverlay
+     * @attr name com.igortarasenko.lifeacademy.test:windowActionModeOverlay
      */
     public static final int Theme_windowActionModeOverlay=100;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7102,11 +7102,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.myfirstapp.test:windowFixedHeightMajor
+     * @attr name com.igortarasenko.lifeacademy.test:windowFixedHeightMajor
      */
     public static final int Theme_windowFixedHeightMajor=101;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7119,11 +7119,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.myfirstapp.test:windowFixedHeightMinor
+     * @attr name com.igortarasenko.lifeacademy.test:windowFixedHeightMinor
      */
     public static final int Theme_windowFixedHeightMinor=102;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7136,11 +7136,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.myfirstapp.test:windowFixedWidthMajor
+     * @attr name com.igortarasenko.lifeacademy.test:windowFixedWidthMajor
      */
     public static final int Theme_windowFixedWidthMajor=103;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7153,11 +7153,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.myfirstapp.test:windowFixedWidthMinor
+     * @attr name com.igortarasenko.lifeacademy.test:windowFixedWidthMinor
      */
     public static final int Theme_windowFixedWidthMinor=104;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7170,11 +7170,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.myfirstapp.test:windowMinWidthMajor
+     * @attr name com.igortarasenko.lifeacademy.test:windowMinWidthMajor
      */
     public static final int Theme_windowMinWidthMajor=105;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7187,17 +7187,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.myfirstapp.test:windowMinWidthMinor
+     * @attr name com.igortarasenko.lifeacademy.test:windowMinWidthMinor
      */
     public static final int Theme_windowMinWidthMinor=106;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #Theme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.myfirstapp.test:windowNoTitle
+     * @attr name com.igortarasenko.lifeacademy.test:windowNoTitle
      */
     public static final int Theme_windowNoTitle=107;
     /**
@@ -7209,29 +7209,29 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.myfirstapp.test:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.myfirstapp.test:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.myfirstapp.test:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.myfirstapp.test:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.myfirstapp.test:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.myfirstapp.test:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.myfirstapp.test:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.myfirstapp.test:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.myfirstapp.test:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.myfirstapp.test:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.myfirstapp.test:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.myfirstapp.test:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.myfirstapp.test:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.myfirstapp.test:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.myfirstapp.test:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.myfirstapp.test:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.myfirstapp.test:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.myfirstapp.test:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.myfirstapp.test:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.myfirstapp.test:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.myfirstapp.test:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.myfirstapp.test:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.myfirstapp.test:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.igortarasenko.lifeacademy.test:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.igortarasenko.lifeacademy.test:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.igortarasenko.lifeacademy.test:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.igortarasenko.lifeacademy.test:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.igortarasenko.lifeacademy.test:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.igortarasenko.lifeacademy.test:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.igortarasenko.lifeacademy.test:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.igortarasenko.lifeacademy.test:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.igortarasenko.lifeacademy.test:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.igortarasenko.lifeacademy.test:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.igortarasenko.lifeacademy.test:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.igortarasenko.lifeacademy.test:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.igortarasenko.lifeacademy.test:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.igortarasenko.lifeacademy.test:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.igortarasenko.lifeacademy.test:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.igortarasenko.lifeacademy.test:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.igortarasenko.lifeacademy.test:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.igortarasenko.lifeacademy.test:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.igortarasenko.lifeacademy.test:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.igortarasenko.lifeacademy.test:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.igortarasenko.lifeacademy.test:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.igortarasenko.lifeacademy.test:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.igortarasenko.lifeacademy.test:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -7260,12 +7260,12 @@ public final class R {
      * @see #Toolbar_titleTextColor
      */
     public static final int[] Toolbar={
-        0x010100af, 0x01010140, 0x7f020042, 0x7f020043, 
-        0x7f02004e, 0x7f02004f, 0x7f020050, 0x7f020051, 
-        0x7f02007f, 0x7f020080, 0x7f020081, 0x7f020084, 
-        0x7f020085, 0x7f020091, 0x7f0200b9, 0x7f0200ba, 
-        0x7f0200bb, 0x7f0200ce, 0x7f0200cf, 0x7f0200d0, 
-        0x7f0200d1, 0x7f0200d2, 0x7f0200d3, 0x7f0200d4, 
+        0x010100af, 0x01010140, 0x7f020042, 0x7f020043,
+        0x7f02004e, 0x7f02004f, 0x7f020050, 0x7f020051,
+        0x7f02007f, 0x7f020080, 0x7f020081, 0x7f020084,
+        0x7f020085, 0x7f020091, 0x7f0200b9, 0x7f0200ba,
+        0x7f0200bb, 0x7f0200ce, 0x7f0200cf, 0x7f0200d0,
+        0x7f0200d1, 0x7f0200d2, 0x7f0200d3, 0x7f0200d4,
         0x7f0200d5
       };
     /**
@@ -7311,17 +7311,17 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.myfirstapp.test:collapseContentDescription
+     * @attr name com.igortarasenko.lifeacademy.test:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=2;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7329,11 +7329,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:collapseIcon
+     * @attr name com.igortarasenko.lifeacademy.test:collapseIcon
      */
     public static final int Toolbar_collapseIcon=3;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7342,11 +7342,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:contentInsetEnd
+     * @attr name com.igortarasenko.lifeacademy.test:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=4;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7355,11 +7355,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:contentInsetLeft
+     * @attr name com.igortarasenko.lifeacademy.test:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7368,11 +7368,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:contentInsetRight
+     * @attr name com.igortarasenko.lifeacademy.test:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7381,11 +7381,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:contentInsetStart
+     * @attr name com.igortarasenko.lifeacademy.test:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7393,21 +7393,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:logo
+     * @attr name com.igortarasenko.lifeacademy.test:logo
      */
     public static final int Toolbar_logo=8;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.myfirstapp.test:logoDescription
+     * @attr name com.igortarasenko.lifeacademy.test:logoDescription
      */
     public static final int Toolbar_logoDescription=9;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7416,21 +7416,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:maxButtonHeight
+     * @attr name com.igortarasenko.lifeacademy.test:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.myfirstapp.test:navigationContentDescription
+     * @attr name com.igortarasenko.lifeacademy.test:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=11;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7438,11 +7438,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:navigationIcon
+     * @attr name com.igortarasenko.lifeacademy.test:navigationIcon
      */
     public static final int Toolbar_navigationIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7450,21 +7450,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:popupTheme
+     * @attr name com.igortarasenko.lifeacademy.test:popupTheme
      */
     public static final int Toolbar_popupTheme=13;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.myfirstapp.test:subtitle
+     * @attr name com.igortarasenko.lifeacademy.test:subtitle
      */
     public static final int Toolbar_subtitle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7472,32 +7472,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:subtitleTextAppearance
+     * @attr name com.igortarasenko.lifeacademy.test:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:subtitleTextColor
+     * @attr name com.igortarasenko.lifeacademy.test:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.myfirstapp.test:title
+     * @attr name com.igortarasenko.lifeacademy.test:title
      */
     public static final int Toolbar_title=17;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7506,11 +7506,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:titleMarginBottom
+     * @attr name com.igortarasenko.lifeacademy.test:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=18;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7519,11 +7519,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:titleMarginEnd
+     * @attr name com.igortarasenko.lifeacademy.test:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=19;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7532,11 +7532,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:titleMarginStart
+     * @attr name com.igortarasenko.lifeacademy.test:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=20;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7545,11 +7545,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:titleMarginTop
+     * @attr name com.igortarasenko.lifeacademy.test:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=21;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7558,11 +7558,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:titleMargins
+     * @attr name com.igortarasenko.lifeacademy.test:titleMargins
      */
     public static final int Toolbar_titleMargins=22;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7570,18 +7570,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:titleTextAppearance
+     * @attr name com.igortarasenko.lifeacademy.test:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=23;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:titleTextColor
+     * @attr name com.igortarasenko.lifeacademy.test:titleTextColor
      */
     public static final int Toolbar_titleTextColor=24;
     /**
@@ -7593,9 +7593,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.myfirstapp.test:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.myfirstapp.test:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.myfirstapp.test:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.igortarasenko.lifeacademy.test:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.igortarasenko.lifeacademy.test:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.igortarasenko.lifeacademy.test:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -7604,7 +7604,7 @@ public final class R {
      * @see #View_theme
      */
     public static final int[] View={
-        0x01010000, 0x010100da, 0x7f020089, 0x7f02008a, 
+        0x01010000, 0x010100da, 0x7f020089, 0x7f02008a,
         0x7f0200cb
       };
     /**
@@ -7615,8 +7615,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.myfirstapp.test:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.myfirstapp.test:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.igortarasenko.lifeacademy.test:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.igortarasenko.lifeacademy.test:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -7641,18 +7641,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.myfirstapp.test:backgroundTint
+     * @attr name com.igortarasenko.lifeacademy.test:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7668,7 +7668,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.myfirstapp.test:backgroundTintMode
+     * @attr name com.igortarasenko.lifeacademy.test:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
@@ -7748,7 +7748,7 @@ public final class R {
      */
     public static final int View_android_theme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7757,11 +7757,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:paddingEnd
+     * @attr name com.igortarasenko.lifeacademy.test:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7770,11 +7770,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.myfirstapp.test:paddingStart
+     * @attr name com.igortarasenko.lifeacademy.test:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.myfirstapp.test.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.igortarasenko.lifeacademy.test.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7782,7 +7782,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.myfirstapp.test:theme
+     * @attr name com.igortarasenko.lifeacademy.test:theme
      */
     public static final int View_theme=4;
   }

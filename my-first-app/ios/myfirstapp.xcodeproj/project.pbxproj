@@ -1338,7 +1338,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 0377CE3E6CC5B040F4304DDF /* Pods-myfirstapp.debug.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = 8A76N862C8;
@@ -1362,7 +1362,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 4DA587E9CEF9D47BE24E3A7B /* Pods-myfirstapp.release.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 8A76N862C8;
 				HEADER_SEARCH_PATHS = (

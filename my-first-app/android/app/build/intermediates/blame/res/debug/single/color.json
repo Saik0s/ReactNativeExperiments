@@ -1,38 +1,50 @@
 [
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/color/abc_primary_text_material_dark.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/color/abc_primary_text_material_dark.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/color/switch_thumb_material_light.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/faade4600393822fca2993084dc2e145/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/faade4600393822fca2993084dc2e145/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/color/abc_primary_text_disable_only_material_light.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/color/abc_secondary_text_material_light.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/color/abc_secondary_text_material_light.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/color/abc_search_url_text.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/color/abc_search_url_text.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/color/abc_primary_text_material_light.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/faade4600393822fca2993084dc2e145/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/color/switch_thumb_material_dark.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/color/switch_thumb_material_dark.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/color/abc_secondary_text_material_dark.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/color/abc_secondary_text_material_dark.xml"
     }
 ]

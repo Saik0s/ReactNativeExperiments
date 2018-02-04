@@ -1,4 +1,4 @@
-package com.myfirstapp;
+package com.igortarasenko.lifeacademy;
 
 import com.facebook.react.ReactActivity;
 import io.invertase.firebase.RNFirebasePackage;

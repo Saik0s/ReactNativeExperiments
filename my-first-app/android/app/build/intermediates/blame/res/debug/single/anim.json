@@ -1,66 +1,66 @@
 [
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/04f2a38645dfc250f4e776e735c3da59/res/anim/catalyst_slide_down.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/b7301eba513a224eb1055c6de0711b5b/res/anim/catalyst_slide_down.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/anim/abc_fade_in.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/anim/abc_slide_in_top.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/04f2a38645dfc250f4e776e735c3da59/res/anim/catalyst_slide_up.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/b7301eba513a224eb1055c6de0711b5b/res/anim/catalyst_slide_up.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/anim/abc_slide_in_bottom.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/anim/abc_popup_enter.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/04f2a38645dfc250f4e776e735c3da59/res/anim/catalyst_push_up_out.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/b7301eba513a224eb1055c6de0711b5b/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/anim/abc_slide_out_top.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/04f2a38645dfc250f4e776e735c3da59/res/anim/catalyst_fade_in.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/b7301eba513a224eb1055c6de0711b5b/res/anim/catalyst_fade_in.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/04f2a38645dfc250f4e776e735c3da59/res/anim/catalyst_push_up_in.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/b7301eba513a224eb1055c6de0711b5b/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/04f2a38645dfc250f4e776e735c3da59/res/anim/catalyst_fade_out.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/react-native-0.52.0.aar/b7301eba513a224eb1055c6de0711b5b/res/anim/catalyst_fade_out.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/anim/abc_fade_out.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/anim/abc_popup_exit.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/Users/Saik0s/Documents/Projects/github/ReactNativeExperiments/my-first-app/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/91ff01817d17ea8dcedc3166f08ed6dc/res/anim/abc_slide_out_bottom.xml"
+        "source": "/Users/Saik0s/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ccadbef11cad8ddd4d53f5d737efb748/res/anim/abc_slide_out_bottom.xml"
     }
 ]
