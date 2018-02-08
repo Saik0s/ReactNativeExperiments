@@ -1,68 +1,67 @@
-import React, {
-  Component
-} from 'react';
+import React, { Component } from "react";
 //import firebase from 'react-native-firebase';
-import {
-  Text,
-  View,
-  StyleSheet,
-  TextInput,
-  Image
-} from 'react-native';
+import { Text, View, StyleSheet, TextInput, Image } from "react-native";
 import {
   Button,
   Card,
   FormLabel,
   FormInput,
   FormValidationMessage
-} from 'react-native-elements'
+} from "react-native-elements";
 
 //console.log(firebase.database().app.name);
 
 export default class App extends React.Component {
-    state = {
-      placeName: ''
-    }
+  state = {
+    placeName: "",
+    names: []
+  };
 
-    errors = {
-      nameError: ''
-    }
+  errors = {
+    nameError: ""
+  };
 
-    playerNameChangeHandler = val => {
-      this.setState({
-        placeName: val
+  playerNameChangeHandler = val => {
+    this.setState({
+      placeName: val
+    });
+  };
+
+  playerSubmitHandler = () => {
+    if (this.state.placeName.match(/^[0-9]+$/)) {
+      this.errors.nameError = "Имя должно состоять только из букв";
+    } else {
+      this.errors.nameError = "";
+      this.setState(prevState => {
+        return {
+          names: prevState.names.concat(prevState.placeName)
+        };
       });
     }
-
-    playerSubmitHandler = () => {
-      if (val.match(/^[0-9]+$/)) {
-        this.errors.nameError = 'Имя должно состоять только из букв';
-      } else {
-        this.errors.nameError = '';
-      }
-    }
+  };
 
   render() {
+    const placesOutput = this.state.names.map((place, i) => (
+      <Text key={i}>{place}</Text>
+    ));
     return (
       <View style={styles.container}>
         <Card style={styles.card}>
           <View style={styles.logo}>
-            <Image
-              source={require('./img/logo.png')}
-            />
+            <Image source={require("./img/logo.png")} />
           </View>
           <View style={styles.form}>
             <FormInput
               onChangeText={this.playerNameChangeHandler}
               placeholder="Имя игрока"
             />
-            <FormValidationMessage>{this.errors.nameError}</FormValidationMessage>
+            <FormValidationMessage>
+              {this.errors.nameError}
+            </FormValidationMessage>
           </View>
-          <Button
-            title='Далее'
-            onPress={this.playerSubmitHandler}
-          />
+          <Button title="Далее" onPress={this.playerSubmitHandler} />
         </Card>
+        <View>{placesOutput}</View>
       </View>
     );
   }
@@ -70,14 +69,13 @@ export default class App extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
+    justifyContent: "center"
   },
   card: {
-    width: '80%'
+    width: "80%"
   },
   logo: {
-    alignItems: 'center',
+    alignItems: "center"
   },
-  form: {
-  },
+  form: {}
 });
