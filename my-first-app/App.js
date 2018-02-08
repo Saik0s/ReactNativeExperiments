@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import firebase from "react-native-firebase";
-import { Text, View, StyleSheet, TextInput, Image } from "react-native";
+import { Text, View, StyleSheet, TextInput, Image, ScrollView } from "react-native";
 import {
   Button,
   Card,
@@ -16,7 +16,7 @@ import ListItem from "./src/components/ListItem/ListItem";
 export default class App extends React.Component {
   state = {
     placeName: "",
-    names: ['test1', 'test2']
+    names: ["test1", "test2"]
   };
 
   errors = {
@@ -44,7 +44,12 @@ export default class App extends React.Component {
 
   render() {
     const placesOutput = this.state.names.map((place, i) => (
-      <ListItem style={styles.listItem} key={i} placeName={place} />
+      <ListItem
+        style={styles.listItem}
+        key={i}
+        placeName={place}
+        onItemPressed={() => alert("Item pressed -ID: " + i)}
+      />
     ));
     return (
       <View style={styles.container}>
@@ -63,7 +68,7 @@ export default class App extends React.Component {
           </View>
           <Button title="Далее" onPress={this.playerSubmitHandler} />
         </Card>
-        <View style={styles.listContainer}>{placesOutput}</View>
+        <ScrollView style={styles.listContainer}>{placesOutput}</ScrollView>
       </View>
     );
   }
@@ -71,18 +76,17 @@ export default class App extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: "center",
+    justifyContent: "center"
   },
   card: {
-    width: "80%",
+    width: "80%"
   },
   logo: {
-    alignItems: "center",
+    alignItems: "center"
   },
   form: {},
-  listContainer: {
-  },
+  listContainer: {},
   listItem: {
-    width: '50%',
-  },
+    width: "50%"
+  }
 });
