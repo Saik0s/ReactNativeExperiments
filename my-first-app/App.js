@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-//import firebase from 'react-native-firebase';
+import firebase from "react-native-firebase";
 import { Text, View, StyleSheet, TextInput, Image } from "react-native";
 import {
   Button,
@@ -9,12 +9,14 @@ import {
   FormValidationMessage
 } from "react-native-elements";
 
+import ListItem from "./src/components/ListItem/ListItem";
+
 //console.log(firebase.database().app.name);
 
 export default class App extends React.Component {
   state = {
     placeName: "",
-    names: []
+    names: ['test1', 'test2']
   };
 
   errors = {
@@ -42,7 +44,7 @@ export default class App extends React.Component {
 
   render() {
     const placesOutput = this.state.names.map((place, i) => (
-      <Text key={i}>{place}</Text>
+      <ListItem style={styles.listItem} key={i} placeName={place} />
     ));
     return (
       <View style={styles.container}>
@@ -61,7 +63,7 @@ export default class App extends React.Component {
           </View>
           <Button title="Далее" onPress={this.playerSubmitHandler} />
         </Card>
-        <View>{placesOutput}</View>
+        <View style={styles.listContainer}>{placesOutput}</View>
       </View>
     );
   }
@@ -69,13 +71,18 @@ export default class App extends React.Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: "center"
+    justifyContent: "center",
   },
   card: {
-    width: "80%"
+    width: "80%",
   },
   logo: {
-    alignItems: "center"
+    alignItems: "center",
   },
-  form: {}
+  form: {},
+  listContainer: {
+  },
+  listItem: {
+    width: '50%',
+  },
 });
