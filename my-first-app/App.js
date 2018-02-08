@@ -11,7 +11,7 @@ import {
 
 import ListItem from "./src/components/ListItem/ListItem";
 
-//console.log(firebase.database().app.name);
+alert(firebase.database().app.name);
 
 export default class App extends React.Component {
   state = {

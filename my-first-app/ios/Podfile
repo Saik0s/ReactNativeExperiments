@@ -6,6 +6,7 @@ target 'myfirstapp' do
   use_frameworks!
 
   pod 'Firebase/Core'
+  pod 'Firebase/Database'
 
   target 'myfirstappTests' do
     inherit! :search_paths
